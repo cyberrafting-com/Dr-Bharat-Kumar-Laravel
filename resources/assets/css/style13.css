@@ -1418,7 +1418,7 @@ h4.f6003 {
     }
     
     section.benefits-section {
-        background-color: #f4f1e863;
+        /* background-color: #f4f1e863; */
         margin: 30px 0px;
         padding: 30px;
     }
@@ -1983,9 +1983,9 @@ h4.f6003 {
     
     .showcase .overlay-set {
         width: 100%;
-         height: 100vh;
-        background-color: rgb(1 1 1 / 4%);
-        position: absolute;
+        height: 100vh;
+        /* background-color: rgb(1 1 1 / 4%); */
+        /* position: absolute; */
         padding: 0px 40px;
         top: 0;
         left: 0;
@@ -2339,4 +2339,39 @@ h4.f6003 {
 .robotic-area 
 {
     padding:0px;
+}
+
+.top-services-content.two {
+    border: 2px solid #ffffff;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+.top-services-content {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
+    box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
+    padding: 30px 20px;
+    border: 1px solid #044c7f;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    border-radius: 2px;
+    margin-bottom: 30px;
+    /* margin-top: 90px; */
+}
+.top-services-content.two:hover {
+    border: 2px solid #7bd7e3;
+}
+.top-services-content:hover {
+    border: 1px solid #ffffff;
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+}
+.top-services-content i{
+    float: left;
+}
+.top-services-content div{
+    padding-left: 32px;
+}
+.top-services-content div p{
+    padding-top: 12px;
 }

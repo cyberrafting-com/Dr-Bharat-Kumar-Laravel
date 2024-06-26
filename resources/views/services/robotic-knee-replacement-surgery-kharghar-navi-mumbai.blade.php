@@ -72,12 +72,10 @@
             <div class="col-md-6">
                 <div class="doc-img">
                     <img src="{{ asset('/resources/assets/images/robotics/dr-bharat-kumar-about.jpeg')}}" alt="">
-
                 </div>
 
             </div>
             <div class="col-md-6">
-
                 <div class="doc-content">
                     <div class="doc-name">
                         <h2>Who is Dr. Bharat Kumar ?</h2>
@@ -105,32 +103,60 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="system-work-area">
-                    <h2>How Does the Robotic System Work ?</h2>
-                    <ul class="system-list">
-                        <i class="fa-solid fa-circle-chevron-right"></i>
-                        <li>Personal GPS Analogy:</li>
-                        <p>Imagine having a personal GPS guiding your surgeon during the operation.</p>
-
-                        <i class="fa-solid fa-circle-chevron-right"></i>
-                        <li>Combination of Technologies:</li>
-                        <p>The robotic system uses a combination of 3D imaging and computer-assisted tools.</p>
-                        <i class="fa-solid fa-circle-chevron-right"></i>
-                        <li>Mapping the Knee:</li>
-                        <p>It maps out your knee's unique structure in detail.</p>
-                        <i class="fa-solid fa-circle-chevron-right"></i>
-                        <li>Procedure Planning:</li>
-                        <p>The detailed map allows the surgeon to plan the procedure with pinpoint precision.</p>
-                        <i class="fa-solid fa-circle-chevron-right"></i>
-                        <li>Perfect Implant Fit:</li>
-                        <p>Ensures that the implant fits perfectly in your knee.</p>
-                    </ul>
-                </div>
+                <img src="{{ asset('/resources/assets/images/robotic-knee-replacement-banner-img1.jpg')}}" alt="">
             </div>
         </div>
     </div>
 </section>
 
+<section class="need-txt">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-12">
+                <div class="benefits-heading text-center pb-4">
+                    <h2>How Does the Robotic System Work ?</h2>
+                </div>
+            </div>
+            <div class="col-lg-12 col-md-12 col-12">
+                <div class="top-services-content two">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <h5>Personal GPS Analogy:</h5>
+                        <p>Imagine having a personal GPS guiding your surgeon during the operation.</p>    
+                    </div>
+                </div>
+                <div class="top-services-content two">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <h5>Combination of Technologies:</h5>
+                        <p>The robotic system uses a combination of 3D imaging and computer-assisted tools.</p>    
+                    </div>
+                </div>
+                <div class="top-services-content two">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <h5>Mapping the Knee:</h5>
+                        <p>It maps out your knee's unique structure in detail.</p>    
+                    </div>
+                </div>
+                <div class="top-services-content two">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <h5>Procedure Planning:</h5>
+                        <p>The detailed map allows the surgeon to plan the procedure with pinpoint precision.</p>    
+                    </div>
+                </div>
+                <div class="top-services-content two">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <h5>Perfect Implant Fit:</h5>
+                        <p>Ensures that the implant fits perfectly in your knee.</p>    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="benefits-section">
     <div class="container">
