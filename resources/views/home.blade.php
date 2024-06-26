@@ -171,7 +171,7 @@
                     <div class="slide-item">
                       <img src="{{ asset('/resources/assets/images/google-icon.png')}}" class="google-icon">
                       <h5>Amit Kandalgaonkar</h5> 
-                      <img src="images/star.png" class="mb-4 star-icon">
+                      <img src="{{ asset('/resources/assets/images/star.png')}}" class="mb-4 star-icon">
                       <p>Recently 3 weeks back I had undergone HIP replacement surgery thru the magical hands of Dr.Bharatkumar.I was unable to walk due to severe pain in my hip joint. After consultation and regular follow up with Dr.Bharatkumar I was diagnosed with avascular necrosis and was advised surgery . It was a complicated procedure , But Dr.Bharatkumar performed Total HIP Replacement surgery skillfully. Recovery after 3 weeks is magical as I can walk pain free now.Dr.Bharatkumar makes u understand each and every aspect of HIP replacement surgery before and after surgery. Me and my family are thankful towards Dr.Bharatkumar and his MITR hospital team to make me walk pain free again.</p>
                     </div>
                 </div>

@@ -41,10 +41,10 @@
         </div>
         <div class="col-md-2 ">
           <p class="footer-title"><b>Stay Connected</b></p>
-          <a href="https://www.facebook.com/BharatKumarOrthopaedic" target="_blank"><img src="images/facebook-icon.svg" class="footer-icon"></a>
-          <a href="https://www.google.com/maps/place/Dr+Bharat+Kumar/@19.0371562,73.0581494,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c23ecbea307f:0xc51ce74eb4a7c67!8m2!3d19.0371562!4d73.0581494" target="_blank"><img src="images/google-icon.svg" class="footer-icon"></a>
+          <a href="https://www.facebook.com/BharatKumarOrthopaedic" target="_blank"><img src="{{ asset('/resources/assets/images/facebook-icon.svg')}}" class="footer-icon"></a>
+          <a href="https://www.google.com/maps/place/Dr+Bharat+Kumar/@19.0371562,73.0581494,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c23ecbea307f:0xc51ce74eb4a7c67!8m2!3d19.0371562!4d73.0581494" target="_blank"><img src="{{ asset('/resources/assets/images/google-icon.svg')}}" class="footer-icon"></a>
                  
-           <a href="https://www.youtube.com/@dr.bharatkumar4602" target="_blank"><img src="images/youtube-icon13.png" class="footer-icon"></a>
+           <a href="https://www.youtube.com/@dr.bharatkumar4602" target="_blank"><img src="{{ asset('/resources/assets/images/youtube-icon13.png')}}" class="footer-icon"></a>
           
           
         </div>
