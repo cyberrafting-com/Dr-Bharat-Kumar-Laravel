@@ -1,4 +1,4 @@
-@php($title = "Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
+@php($title = "Dr. Bharat, Orthopedic Surgeon, Navi Mumbai")  
 @section('meta_desc') @endsection
 @extends('layouts.default')    
 @section('content')  
@@ -92,7 +92,7 @@
 				<p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
 				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
 				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
-				<p class="mb-4 font-set">Dr. G Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
+				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
         <div class="book-online-btn">
             <a href="{{route('about')}}">View More
             </a>
@@ -202,7 +202,7 @@
                           <img src="{{ asset('/resources/assets/images/google-icon.png')}}" class="google-icon">
                           <h5>Shubhangi Pawar</h5> 
                           <img src="{{ asset('/resources/assets/images/star.png')}}" class="mb-4 star-icon">
-                          <p>Dr. G Bharat is a best orthopedic Dr. He done my both knee replacement surgery with reasonable chargés. He gave special attention to their patient. We are so happy that we met such doctor. He  is best human being. Now i can walk without any pain. Thank you Doctor.</p>
+                          <p>Dr. Bharat is a best orthopedic Dr. He done my both knee replacement surgery with reasonable chargés. He gave special attention to their patient. We are so happy that we met such doctor. He  is best human being. Now i can walk without any pain. Thank you Doctor.</p>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                       <img src="{{ asset('/resources/assets/images/google-icon.png')}}" class="google-icon">
                       <h5>Amit Kandalgaonkar</h5> 
                       <img src="{{ asset('/resources/assets/images/star.png')}}" class="mb-4 star-icon">
-                      <p>Recently 3 weeks back I had undergone HIP replacement surgery thru the magical hands of Dr.Bharatkumar.I was unable to walk due to severe pain in my hip joint. After consultation and regular follow up with Dr.Bharatkumar I was diagnosed with avascular necrosis and was advised surgery . It was a complicated procedure , But Dr.Bharatkumar performed Total HIP Replacement surgery skillfully. Recovery after 3 weeks is magical as I can walk pain free now.Dr.Bharatkumar makes u understand each and every aspect of HIP replacement surgery before and after surgery. Me and my family are thankful towards Dr.Bharatkumar and his MITR hospital team to make me walk pain free again.</p>
+                      <p>Recently 3 weeks back I had undergone HIP replacement surgery thru the magical hands of Dr.Bharatkumar.I was unable to walk due to severe pain in my hip joint. After consultation and regular follow up with Dr.Bharatkumar I was diagnosed with avascular necrosis and was advised surgery . It was a complicated procedure , But Dr. Bharatkumar performed Total HIP Replacement surgery skillfully. Recovery after 3 weeks is magical as I can walk pain free now.Dr. Bharatkumar makes u understand each and every aspect of HIP replacement surgery before and after surgery. Me and my family are thankful towards Dr. Bharatkumar and his MITR hospital team to make me walk pain free again.</p>
                     </div>
                 </div>
                 </div>

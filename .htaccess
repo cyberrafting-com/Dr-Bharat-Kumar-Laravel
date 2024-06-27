@@ -26,3 +26,14 @@
 </IfModule>
 
 Redirect 301 /testimonials.php https://www.drbharatkumar.com/testimonials/google-reviews
+Redirect 301 /services.php https://drbharatkumar.com/services/robotic-knee-replacement-surgery-kharghar-navi-mumbai
+Redirect 301 /hip-replacement.php https://drbharatkumar.com/services/hip-replacement
+Redirect 301 /knee-replacement.php https://drbharatkumar.com/services/knee-replacement
+Redirect 301 /about.php https://drbharatkumar.com/about
+Redirect 301 /fracture-treatment.php https://drbharatkumar.com/services/fracture-treatment
+Redirect 301 /contact.php https://drbharatkumar.com/contact
+Redirect 301 /gallery.php https://drbharatkumar.com/gallery/images
+Redirect 301 /patient-education.php https://drbharatkumar.com/gallery/patient-education
+Redirect 301 /video-testimonials.php https://drbharatkumar.com/testimonials/video-testimonials
+Redirect 301 /arthritis-treatment.php https://drbharatkumar.com/services/arthritis-treatment
+Redirect 301 /sport-injury-treatment.php https://drbharatkumar.com/services/sport-injury-treatment
