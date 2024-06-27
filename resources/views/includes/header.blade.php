@@ -21,12 +21,12 @@
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="javascript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					<a class="dropdown-item" href="{{route('robotic-knee-replacement-surgery-kharghar-navi-mumbai')}}">Robotic Knee Replacement</a>
 					<a class="dropdown-item" href="{{route('hip-replacement')}}">Hip Replacement</a>
 					<a class="dropdown-item" href="{{route('knee-replacement')}}">Knee Joint Replacement</a>
 					<a class="dropdown-item" href="{{route('sport-injury-treatment')}}">Sports Injuries</a>
 					<a class="dropdown-item" href="{{route('arthritis-treatment')}}">Arthritis Treatment</a>
 					<a class="dropdown-item" href="{{route('fracture-treatment')}}">Fracture Treatment</a>
-					<a class="dropdown-item" href="{{route('robotic-knee-replacement-surgery-kharghar-navi-mumbai')}}">Robotic Knee Replacement</a>
 				</div>
 			</li>
 			

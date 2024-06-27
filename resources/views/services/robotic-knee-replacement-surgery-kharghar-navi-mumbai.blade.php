@@ -249,8 +249,6 @@
                     </li>
                 </ol>
             </div>
-
-
         </div>
     </div>
 </section>
@@ -261,7 +259,7 @@
         <h2>Experience the Freedom of Pain-Free Movement with Robotic Knee Replacement in Navi Mumbai.</h2>
         <p>With Dr. Bharat Kumar - Your Trusted Partner in Advanced Orthopaedic Care.</p>
         <div class="wide-btn">
-            <a href="">Book a Consultation Today!</a>
+            <a href="{{route('contact')}}">Book a Consultation Today!</a>
         </div>
     </div>
 </section>
@@ -337,13 +335,30 @@
             <div class="knee-replacement">
                 <h2>Who Needs a Knee Replacement ?</h2>
                 <p class="pt-4 pb-4">Knee replacement surgery is often suggested for people who have serious knee pain and problems moving because of conditions like:</p>
-                <ul>
-                    <li><i class="fa-solid fa-circle-chevron-right"></i><span class="bold-set">Osteoarthritis: </span>This is when the knee joint wears out over time.</li>
-                    <li><i class="fa-solid fa-circle-chevron-right"></i><span class="bold-set">Rheumatoid arthritis: </span>This is when the body's own defense system attacks the knee joint.</li>
-                    <li><i class="fa-solid fa-circle-chevron-right"></i><span class="bold-set">Post-traumatic arthritis: </span>This happens after a bad injury to the knee.</li>
-                    <li><i class="fa-solid fa-circle-chevron-right"></i><span class="bold-set">Significant knee injuries: </span>Big injuries that make it hard to use the knee.</li>
-
-                </ul>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Osteoarthritis:</span>This is when the knee joint wears out over time.</p>
+                    </div>      
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Rheumatoid arthritis:</span>This is when the body's own defense system attacks the knee joint.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Post-traumatic arthritis:</span>This happens after a bad injury to the knee.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Significant knee injuries:</span>Big injuries that make it hard to use the knee.</p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="col-md-6 order-1 order-md-2">
