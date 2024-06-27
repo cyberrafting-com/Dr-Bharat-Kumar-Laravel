@@ -1,3 +1,5 @@
+@php($title = "")  
+@section('meta_desc') @endsection
 @extends('layouts.default')    
 @section('content')
 
@@ -141,7 +143,7 @@
                           <img src="{{ asset('/resources/assets/images/google-icon.png')}}" class="google-icon">
                           <h5>Shubhangi Pawar</h5> 
                           <img src="{{ asset('/resources/assets/images/star.png')}}" class="mb-4 star-icon">
-                          <p>Dr. G Bharat is a best orthopedic doctor. He done my both knee replacement surgery with reasonable chargés. He gave special attention to their patient. We are so happy that we met such doctor. He  is best human being. Now i can walk without any pain. Thank you Doctor.</p>
+                          <p>Dr. G Bharat is a best orthopedic Dr. He done my both knee replacement surgery with reasonable chargés. He gave special attention to their patient. We are so happy that we met such doctor. He  is best human being. Now i can walk without any pain. Thank you Doctor.</p>
                         </div>
                     </div>
                 </div>
@@ -151,7 +153,7 @@
                           <img src="{{ asset('/resources/assets/images/google-icon.png')}}" class="google-icon">
                           <h5>Suraj Gedam</h5> 
                           <img src="{{ asset('/resources/assets/images/star.png')}}" class="mb-4 star-icon">
-                          <p class="pb-2">The Best orthopedic doctor in navi Mumbai...  He performed knee replacement of my mother and she is recovered very well with in 2months ... She performs her work perfectly now...  I'm thankful towards Dr. Bharat Kumar and MITR hospital Kharghar for taking good care of my mother.</p>
+                          <p class="pb-2">The Best orthopedic Dr. in navi Mumbai...  He performed knee replacement of my mother and she is recovered very well with in 2months ... She performs her work perfectly now...  I'm thankful towards Dr. Bharat Kumar and MITR hospital Kharghar for taking good care of my mother.</p>
                         </div>
                     </div>
                 </div>
@@ -162,7 +164,7 @@
                       <img src="{{ asset('/resources/assets/images/google-icon.png')}}" class="google-icon">
                       <h5>Shivshankar Mudhole</h5> 
                       <img src="{{ asset('/resources/assets/images/star.png')}}" class="mb-4 star-icon">
-                      <p class="pb-2">The services that we received from Dr. Bharat Kumar is excellent. Doctor sir alongwith the staff of MITR hospital are friendly and ensure that we are properly informed about our patients health and care.</p>
+                      <p class="pb-2">The services that we received from Dr. Bharat Kumar is excellent. Dr. alongwith the staff of MITR hospital are friendly and ensure that we are properly informed about our patients health and care.</p>
                       <p class="pb-2">He treated my mom, Mrs. Priyanka Naik for knee replacement surgery and the entire process went very smoothly. This is just because of hospital staff and Dr. Bharatkumar sir's personal envolvement in patients speedy recovery.</p>
                       <p>Also would like to mention that the physiothrepist, Dr. Muthu is very kind and treats his patients at his patients pace. Kudos to the entire staff of MITR hospital!! I would have no qualms in recommending them to family and friends. Thank you.</p>
                     </div>

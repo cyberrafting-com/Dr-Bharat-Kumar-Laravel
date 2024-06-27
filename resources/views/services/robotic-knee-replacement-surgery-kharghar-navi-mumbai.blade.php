@@ -231,8 +231,8 @@
                 <thead class="thead-dark-set">
                     <tr class="table-head-bg">
                         <th scope="col" class="table-head-color">Aspect</th>
-                        <th scope="col" class="table-head-color">Blade LASIK</th>
-                        <th scope="col" class="table-head-color">Bladeless LASIK</th>
+                        <th scope="col" class="table-head-color">Traditional Knee Replacement</th>
+                        <th scope="col" class="table-head-color">Robotic Knee Replacement</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -309,7 +309,7 @@
     </div>
 </section>
 
-<section class="procedures">
+<!-- <section class="procedures">
     <div class="container">
         <div class="procedure-head text-center">
             <h2>The Procedure Step-by-Step</h2>
@@ -354,7 +354,7 @@
         </div>
     </div>
 
-</section>
+</section> -->
 
 <section class="recovery">
     <div class="container pushed-wrapper">
@@ -439,23 +439,11 @@
 
                     <p>Hearing from those who have undergone robotic knee replacement in Navi Mumbai with Dr. Bharat Kumar can provide invaluable insight. Many of Dr. Bharat's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Bharat's skill and dedication.</p>
 
-                    <!-- <div class="vide-btn">
-                    <a href="">View More</a>
-                </div> -->
+                    <div class="vide-btn mt-4">
+                        <a href="{{route('video-testimonials')}}">View More</a>
+                    </div> 
 
-                    <button class="button--content">
-
-
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75"></path>
-                        </svg>
-
-
-                        <div class="text--set">
-                            View More
-                        </div>
-
-                    </button>
+                    
                 </div>
 
 
