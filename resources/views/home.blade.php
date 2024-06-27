@@ -1,4 +1,4 @@
-@php($title = "")  
+@php($title = "Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
 @section('meta_desc') @endsection
 @extends('layouts.default')    
 @section('content')
@@ -79,16 +79,13 @@
 
 <section class="abt-sec pt-60">
 	<div class="container">
-		<div class="row align-items-center">
-
+		<div class="row align-items-center pb-5">
 			<div class="col-md-5">
-
 				<div class="doc-img">
 
 					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}">
 
 				</div>
-
 			</div>
 			<div class="col-md-7">
 				<h2 class="blue">Meet, Dr. Bharat Kumar!</h2>
@@ -96,14 +93,76 @@
 				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
 				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
 				<p class="mb-4 font-set">Dr. G Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
-
+        <div class="book-online-btn">
+            <a href="{{route('about')}}">View More
+            </a>
+        </div> 
 			</div>
 		</div>
 	</div>
+</section>
 
-
-
-	</div>
+<section class="robotic-area">
+    <div class="container">
+        <div class="row mt-30 mb-5">
+            <div class="col-md-6">
+                <div class="intro--area">
+                    <h3>Introducing Advanced Robotic Knee Replacement Surgery</h3>
+                    <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:Benefits of Robotic Surgery</p>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Less Pain:</span>Experience a more comfortable recovery.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Faster Recovery:</span>Get back to your daily activities sooner.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Enhanced Precision & Accuracy:</span>Achieve better surgical outcomes.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Customized Surgical Planning:</span>Personalized to your unique anatomy.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Natural Feeling of the New Joint:</span>Enjoy improved joint function.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Minimally Invasive Technique:</span>Smaller incisions and less scarring.
+                        </p>
+                    </div>
+                </div>
+                <div class="book-online-btn mt-4">
+                    <a href="{{route('contact')}}">Schedule Your Consultation Today
+                    </a>
+                </div> 
+            </div>
+            <div class="col-md-6">
+                <div class="intro--area-img">
+                    <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <!--video section-->

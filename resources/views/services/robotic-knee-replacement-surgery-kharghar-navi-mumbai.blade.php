@@ -1,5 +1,5 @@
-@php($title = "")  
-@section('meta_desc') @endsection
+@php($title = "Robotic Knee Replacement in Navi Mumbai  by Dr. Bharat Kumar")  
+@section('meta_desc')Experience advanced robotic knee replacement in Navi Mumbai with Dr. Bharat Kumar. Enjoy precision surgery and faster recovery. Book now! @endsection
 @extends('layouts.default')    
 @section('content')
 
@@ -29,7 +29,7 @@
 
     <div class="container">
         <div class="knee-banner text-center">
-            <img class="desk--view" src="{{ asset('/resources/assets/images/robotics/robotic-knee-banner-for-page.png')}}" alt="">
+            <img class="desk--view" src="{{ asset('/resources/assets/images/robotics/robotic-knee-banner-for-page.jpg')}}" alt="">
             <!-- <img src="images/robotics/robotic-knee-replacement-surgery.jpg" alt="">  -->
         </div>
     </div>
@@ -38,8 +38,7 @@
         <div class="row mt-30">
             <div class="col-md-5 order-2 order-md-1  d-flex">
                 <div class="intro-area">
-                    <p>
-                        In the bustling heart of Navi Mumbai lies Kharghar, a vibrant community known for its progressive healthcare facilities. Among these facilities stands a remarkable figure, Dr. Bharat Kumar, an esteemed orthopaedic and joint replacement surgeon with over a decade of experience. One of the cutting-edge procedures he specializes in is robotic knee replacement in Kharghar, Navi Mumbai.</p>
+                    <p>Knee pain can significantly hinder your daily activities, turning simple tasks into daunting challenges. Whether it's due to arthritis, injury, or wear and tear, the impact is undeniable. This is where robotic knee replacement comes into play—a revolutionary approach that promises precision, faster recovery, and long-lasting results.</p>
                 </div>
             </div>
             <div class="col-md-7 order-1 order-md-2">
@@ -49,7 +48,7 @@
             </div>
         </div>
         <br>
-        <div class="row mt-30">
+        <div class="row mt-30 mb-5">
             <div class="col-md-6">
                 <div class="intro--area-img">
                     <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="">
@@ -58,11 +57,55 @@
 
             <div class="col-md-6">
                 <div class="intro--area">
-                    <h3>Introduction to Robotic Knee Replacement</h3>
-                    <p>Knee pain can significantly hinder your daily activities, turning simple tasks into daunting challenges. Whether it's due to arthritis, injury, or wear and tear, the impact is undeniable. This is where robotic knee replacement comes into play—a revolutionary approach that promises precision, faster recovery, and long-lasting results. </p>
+                    <h3>Introducing Advanced Robotic Knee Replacement Surgery</h3>
+                    <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:Benefits of Robotic Surgery</p>
                 </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Less Pain:</span>Experience a more comfortable recovery.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Faster Recovery:</span>Get back to your daily activities sooner.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Enhanced Precision & Accuracy:</span>Achieve better surgical outcomes.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Customized Surgical Planning:</span>Personalized to your unique anatomy.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Natural Feeling of the New Joint:</span>Enjoy improved joint function.
+                        </p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-2">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Minimally Invasive Technique:</span>Smaller incisions and less scarring.
+                        </p>
+                    </div>
+                </div>
+                <div class="book-online-btn mt-4">
+                    <a href="{{route('contact')}}">Schedule Your Consultation Today
+                    </a>
+                </div> 
             </div>
-
         </div>
     </div>
 </section>
@@ -82,10 +125,13 @@
                     <div class="doc-name">
                         <h2>About Dr. Bharat Kumar</h2>
                     </div>
+                    <p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
+				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
+				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
                     <p>Dr. Bharat Kumar is a renowned orthopaedic surgeon practising in Kharghar, Navi Mumbai. With over 10 years of experience, he has earned a reputation for excellence in joint replacement surgeries in Kharghar. <br><br> His commitment to adopting the latest technologies, such as robotic knee replacement, highlights his dedication to providing the best care for his patients.
                     </p>
-                    <div class="book-btn">
-                        <a href="">Book a Consultation Today!</a>
+                    <div class="book-online-btn mt-4">
+                        <a href="{{route('contact')}}">Book a Consultation Today!</a>
                     </div>
                 </div>
             </div>
@@ -290,7 +336,7 @@
         <div class="col-md-6  order-2 order-md-1">
             <div class="knee-replacement">
                 <h2>Who Needs a Knee Replacement ?</h2>
-                <p>Knee replacement surgery is often suggested for people who have serious knee pain and problems moving because of conditions like:</p>
+                <p class="pt-4 pb-4">Knee replacement surgery is often suggested for people who have serious knee pain and problems moving because of conditions like:</p>
                 <ul>
                     <li><i class="fa-solid fa-circle-chevron-right"></i><span class="bold-set">Osteoarthritis: </span>This is when the knee joint wears out over time.</li>
                     <li><i class="fa-solid fa-circle-chevron-right"></i><span class="bold-set">Rheumatoid arthritis: </span>This is when the body's own defense system attacks the knee joint.</li>

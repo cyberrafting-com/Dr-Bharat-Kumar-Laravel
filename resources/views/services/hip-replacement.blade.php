@@ -1,4 +1,4 @@
-@php($title = "")  
+@php($title = "Hip Replacement | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
 @section('meta_desc') @endsection
 @extends('layouts.default')    
 @section('content')
