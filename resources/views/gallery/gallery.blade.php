@@ -1,3 +1,5 @@
+@php($title = "")  
+@section('meta_desc') @endsection
 @extends('layouts.default')    
 @section('content')
 

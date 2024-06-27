@@ -35,7 +35,7 @@
     <div class="row no-gutters d-flex justify-content-center">
       <div class="col-md-2">
         <a href="{{route('robotic-knee-replacement-surgery-kharghar-navi-mumbai')}}" class="SkewedTile__2xHww">
-          <div class="animate-skew service-5"></div>
+          <div class="animate-skew service-6"></div>
           <h4>Robotic Knee Replacement</h4>
         </a>
       </div>
@@ -75,6 +75,35 @@
   </div>
 </section>
 
+<section class="abt-sec pt-60">
+	<div class="container">
+		<div class="row align-items-center">
+
+			<div class="col-md-5">
+
+				<div class="doc-img">
+
+					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}">
+
+				</div>
+
+			</div>
+			<div class="col-md-7">
+				<h2 class="blue">Meet, Dr. Bharat Kumar!</h2>
+				<p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
+				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
+				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
+				<p class="mb-4 font-set">Dr. G Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
+
+			</div>
+		</div>
+	</div>
+
+
+
+	</div>
+</section>
+
 <!--video section-->
 <section class="testimonials">
   <div class="container">
@@ -92,7 +121,7 @@
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/C5Mmv9dCps8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div class="col-md-4 text-center m-0 book-online-btn">
-        <a href="video-testimonials.php" class="btn-l" target="_blank">View More</a>
+        <a href="{{route('video-testimonials')}}" class="btn-l">View More</a>
       </div>
     </div>
   </div>

@@ -1,3 +1,5 @@
+@php($title = "")  
+@section('meta_desc') @endsection
 @extends('layouts.default')    
 @section('content')
 
@@ -21,7 +23,7 @@
 <section class="robotic-area">
     <div class="container-auto">
         <div class="heading-set">
-            <h2>Robotic Knee Replacement in Kharghar by Dr. Bharat Kumar</h2>
+            <h2>Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
         </div>
     </div>
 
@@ -78,7 +80,7 @@
             <div class="col-md-6">
                 <div class="doc-content">
                     <div class="doc-name">
-                        <h2>Who is Dr. Bharat Kumar ?</h2>
+                        <h2>About Dr. Bharat Kumar</h2>
                     </div>
                     <p>Dr. Bharat Kumar is a renowned orthopaedic surgeon practising in Kharghar, Navi Mumbai. With over 10 years of experience, he has earned a reputation for excellence in joint replacement surgeries in Kharghar. <br><br> His commitment to adopting the latest technologies, such as robotic knee replacement, highlights his dedication to providing the best care for his patients.
                     </p>
@@ -161,7 +163,7 @@
 <section class="benefits-section">
     <div class="container">
         <div class="benefits-heading text-center">
-            <h2>Benefits of Robotic Knee Replacement in Kharghar, Navi Mumbai</h2>
+            <h2>Benefits of Robotic Knee Replacement in Navi Mumbai</h2>
         </div>
         <div class="row">
 
@@ -210,7 +212,7 @@
 
 <section class="wide-bg">
     <div class="wide-txt">
-        <h2>Experience the Freedom of Pain-Free Movement with Robotic Knee Replacement in Kharghar, Navi Mumbai.</h2>
+        <h2>Experience the Freedom of Pain-Free Movement with Robotic Knee Replacement in Navi Mumbai.</h2>
         <p>With Dr. Bharat Kumar - Your Trusted Partner in Advanced Orthopaedic Care.</p>
         <div class="wide-btn">
             <a href="">Book a Consultation Today!</a>
@@ -389,7 +391,7 @@
 <section class="why-choose">
     <div class="container">
         <div class="why--name text-center">
-            <h2>Why Choose Dr. Bharat Kumar for Robotic Knee Replacement in Kharghar, Navi Mumbai ?</h2>
+            <h2>Why Choose Dr. Bharat Kumar for Robotic Knee Replacement in Navi Mumbai ?</h2>
         </div>
         <div class="why-area">
             <div class="row">
@@ -403,7 +405,7 @@
                     <div class="Why--txt">
 
                         <p>Choosing the right surgeon is paramount to the success of your knee replacement surgery. </p>
-                        <p>Dr. Bharat Kumar's extensive experience, coupled with his expertise in robotic-assisted surgeries, makes him a top choice for patients in Kharghar and beyond. </p>
+                        <p>Dr. Bharat Kumar's extensive experience, coupled with his expertise in robotic-assisted surgeries, makes him a top choice for patients in Navi Mumbai and beyond. </p>
                         <p>He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
                         <p>His patient-centric approach ensures that each individual receives personalized care tailored to their specific needs. </p>
 
@@ -433,9 +435,9 @@
         <div class="row">
             <div class="col-md-7 order-2 order-md-1">
                 <div class="success-set">
-                    <h2>Patient Success Stories for Robotic Knee Replacement in Kharghar, Navi Mumbai by Dr. Bharat Kumar</h2>
+                    <h2>Patient Success Stories for Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
 
-                    <p>Hearing from those who have undergone robotic knee replacement in Kharghar, Navi Mumbai with doctor Bharat Kumar can provide invaluable insight. Many of Dr. Kumar's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Kumar's skill and dedication.</p>
+                    <p>Hearing from those who have undergone robotic knee replacement in Navi Mumbai with doctor Bharat Kumar can provide invaluable insight. Many of Dr. Kumar's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Kumar's skill and dedication.</p>
 
                     <!-- <div class="vide-btn">
                     <a href="">View More</a>
@@ -528,7 +530,7 @@
             <i class="fa-solid fa-circle-chevron-right"></i>
             <li>Most patients experience significant pain relief, improved mobility, and a greater ability to perform daily activities.</li>
             <i class="fa-solid fa-circle-chevron-right"></i>
-            <li>Regular follow-ups after Robotic knee replacement in Kharghar, Navi Mumbai with <span class="doc---name">Dr. Bharat Kumar</span> ensure <br>
+            <li>Regular follow-ups after Robotic knee replacement in Navi Mumbai with <span class="doc---name">Dr. Bharat Kumar</span> ensure <br>
                 that any issues are promptly addressed, keeping you on the path to a healthy, active life.</li>
 
         </ul>
@@ -541,7 +543,7 @@
             <div class="row">
                 <div class="conclusion-content">
                     <h2>Conclusion</h2>
-                    <p>Robotic knee replacement in Kharghar by Dr. Bharat Kumar offers a promising solution for those suffering from debilitating knee pain. With advanced technology and a skilled surgeon, you can look forward to a quicker recovery and a better quality of life. If you're considering knee replacement surgery, exploring robotic options with Dr. Kumar could be the key to your journey toward pain-free living.</p>
+                    <p>Robotic knee replacement in Navi Mumbai by Dr. Bharat Kumar offers a promising solution for those suffering from debilitating knee pain. With advanced technology and a skilled surgeon, you can look forward to a quicker recovery and a better quality of life. If you're considering knee replacement surgery, exploring robotic options with Dr. Kumar could be the key to your journey toward pain-free living.</p>
                 </div>
             </div>
         </div>

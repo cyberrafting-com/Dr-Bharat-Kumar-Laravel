@@ -2,6 +2,8 @@
 <html>
 
 <head>
+    <title> {{ $title }} </title>
+    <meta name="description" content="@yield('meta_desc')">
     @include('includes.head')              
 </head>    
 

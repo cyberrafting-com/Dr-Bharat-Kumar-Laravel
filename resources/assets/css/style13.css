@@ -416,7 +416,11 @@ h3 {
     background-position: 50%;
     background-size: cover;
 }
-
+.sec-service .service-6 {
+    background: url(../images/robotic-knee-replacement-banner-img1.jpg);
+    background-position: 50%;
+    background-size: cover;
+}
 .srvc-meta p,
 .srvc-meta ul li {
     font-size: 1.2rem;
@@ -2368,10 +2372,15 @@ h4.f6003 {
 }
 .top-services-content i{
     float: left;
+    color: #00626f;
 }
 .top-services-content div{
     padding-left: 32px;
 }
 .top-services-content div p{
     padding-top: 12px;
+}
+.top-services-content.two h5{
+    color: #9f753e;
+    font-weight: 700;
 }
