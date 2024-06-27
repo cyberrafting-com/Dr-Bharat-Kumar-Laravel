@@ -1,7 +1,7 @@
 @php($title = "Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
 @section('meta_desc') @endsection
 @extends('layouts.default')    
-@section('content')
+@section('content')  
 
 <!-- start slider here -->
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
