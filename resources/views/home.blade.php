@@ -1,64 +1,44 @@
 @extends('layouts.default')    
 @section('content')
 
-<!--Carousel Wrapper-->
-    <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
-      <!--Indicators-->
-      <ol class="carousel-indicators">
-        <li data-target="#carousel-example-1z" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-1z" data-slide-to="1"></li>
-         <li data-target="#carousel-example-1z" data-slide-to="2"></li> 
-      </ol>
-      <!--/.Indicators-->
-      <!--Slides-->
-      <div class="carousel-inner" role="listbox">
-        <!--First slide-->
-        <div class="carousel-item active">
-          <img src="{{ asset('/resources/assets/images/banner-1.jpg')}}" alt="First slide">
-          <div class="container banner-caption">
-            <div class="row mt-80">
-              <div class="col-md-8 offset-md-4">
-                <div class="">
-                  <!-- <h1 class="f700 text-white">Get Ride of Depression Now</h1>
-                  <p class="f18 f400 text-white pt-2">Talk | Resolve | Heal</p> -->
-                  <div class="book-online-btn d-inline-block ml-60">
-                    <a target="_blank" href="https://payu.in/web/7C18937AD79349CBD7AC6880CF03B066">Book Online</a>
-                  </div>
-                  <a href="tel:02227744239" class="btn btn-blue ml-4 d-none d-md-inline-block">CALL US AT: (022) 27744239</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!--/First slide-->
-        <!--Second slide-->
-         <div class="carousel-item">
-              <a target="_blank" href="https://www.youtube.com/@drbharatkumar/videos">
-              <img src="{{ asset('/resources/assets/images/second-banner1.jpg')}}" alt="">
-              </a>
-          <!--<img src="images/banner2.jpg" alt="Second slide">-->
-       
-        </div> 
-        <!--/Second slide-->
-      </div>
-      <!--/.Slides-->
-      <!--Controls-->
-      <a class="carousel-control-prev" href="#carousel-example-1z" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carousel-example-1z" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-      <!--/.Controls-->
+<!-- start slider here -->
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <!-- <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol> -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ asset('/resources/assets/images/slider-1.jpg')}}" class="d-block w-100" alt="slider-1">
     </div>
-<!--/.Carousel Wrapper--> 
-
+    <!-- <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div> -->
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<!-- end slider -->   
 
 <section class="sec-service">
   <div class="container-fluid">
     <div class="row no-gutters d-flex justify-content-center">
+      <div class="col-md-2">
+        <a href="{{route('robotic-knee-replacement-surgery-kharghar-navi-mumbai')}}" class="SkewedTile__2xHww">
+          <div class="animate-skew service-5"></div>
+          <h4>Robotic Knee Replacement</h4>
+        </a>
+      </div>
       <div class="col-md-2">
         <a href="{{route('hip-replacement')}}" class="SkewedTile__2xHww">
           <div class="animate-skew service-1"></div>
@@ -71,14 +51,14 @@
           <h4>Knee Joint Replacement</h4>
         </a>
       </div>
+    </div>
+    <div class="row no-gutters d-flex justify-content-center">
       <div class="col-md-2">
         <a href="{{route('sport-injury-treatment')}}" class="SkewedTile__2xHww">
           <div class="animate-skew service-3"></div>
           <h4>Sports Injuries</h4>
         </a>
       </div>
-    </div>
-    <div class="row no-gutters d-flex justify-content-center">
       <div class="col-md-2">
         <a href="{{route('arthritis-treatment')}}" class="SkewedTile__2xHww">
           <div class="animate-skew service-4"></div>
@@ -89,12 +69,6 @@
         <a href="{{route('fracture-treatment')}}" class="SkewedTile__2xHww">
           <div class="animate-skew service-5"></div>
           <h4>Fracture Treatment</h4>
-        </a>
-      </div>
-      <div class="col-md-2">
-        <a href="{{route('robotic-knee-replacement-surgery-kharghar-navi-mumbai')}}" class="SkewedTile__2xHww">
-          <div class="animate-skew service-5"></div>
-          <h4>Robotic Knee Replacement</h4>
         </a>
       </div>
     </div>
