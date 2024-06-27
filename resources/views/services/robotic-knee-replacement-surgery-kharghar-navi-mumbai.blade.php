@@ -437,7 +437,7 @@
                 <div class="success-set">
                     <h2>Patient Success Stories for Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
 
-                    <p>Hearing from those who have undergone robotic knee replacement in Navi Mumbai with doctor Bharat Kumar can provide invaluable insight. Many of Dr. Kumar's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Kumar's skill and dedication.</p>
+                    <p>Hearing from those who have undergone robotic knee replacement in Navi Mumbai with Dr. Bharat Kumar can provide invaluable insight. Many of Dr. Bharat's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Bharat's skill and dedication.</p>
 
                     <!-- <div class="vide-btn">
                     <a href="">View More</a>
