@@ -2400,3 +2400,41 @@ h4.f6003 {
     color: #000;
     line-height: 30px;
 }
+
+/*start footer whatsapp and call buttons*/
+#mybutton {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    z-index: 29;
+}
+.call-us {
+    background-color: #018f99;
+    color: white;
+    border-radius: unset;
+    width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+.call-us:hover {background-color: #018f99; color: white;}
+.whatsapp:hover {background-color: #10ba17; color: white;}
+.whatsapp {
+    background-color: #10ba17;
+    color: white;
+    border-radius: unset;
+    width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+.whatsapp img {
+    width: 32px;
+    margin-right: 10px;
+}
+.call-us img {
+    width: 32px;
+    margin-right: 10px;  
+}

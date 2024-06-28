@@ -58,6 +58,15 @@
     </div>
   </div>
 
+  <div id="mybutton" class="navbar-fixed-bottom d-lg-none d-xl-none d-md-none d-sm-none">
+    <div class="d-flex">
+        <div style="width: 100%;">
+            <a href="tel:+916262840940"><button class="call-us btn" type="button"><img src="{{ asset('/resources/assets/images/phone-icon.png')}}" alt="Call Us">Call Us</button></a>
+        </div>
+        <div style="width: 100%;">
+            <a href="https://api.whatsapp.com/send?phone=+916262840940&amp;text=book%20an%20appointment"><button class="whatsapp btn" type="button"><img src="{{ asset('/resources/assets/images/whatsapp.png')}}" alt="WhatsApp">WhatsApp</button></a>
+        </div>
+    </div>
 
   <script src="{{ asset('/resources/assets/js/jquery-3.3.1.slim.min.js')}}"></script>
   <script src="{{ asset('/resources/assets/js/bootstrap.min.js')}}"></script>
