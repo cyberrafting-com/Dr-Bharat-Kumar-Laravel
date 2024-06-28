@@ -11,7 +11,7 @@
 
 				<div class="doc-img">
 
-					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}">
+					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}" class="img-fluid">
 
 				</div>
 
@@ -82,7 +82,7 @@
 				<div class="doc-img-sec">
 
 
-					<img src="{{ asset('/resources/assets/images/doc-sec-img.jpg')}}">
+					<img src="{{ asset('/resources/assets/images/doc-sec-img.jpg')}}" class="img-fluid">
 
 				</div>
 
