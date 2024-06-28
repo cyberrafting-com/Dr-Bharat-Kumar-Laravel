@@ -1,5 +1,5 @@
-@php($title = "Arthritis Treatment | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Best Doctor for Arthritis Treatment in Navi Mumbai | Dr. Bharat Raju")  
+@section('meta_desc')Find relief from arthritis pain with Dr. Bharat Raju, Navi Mumbai's top orthopedic specialist. Advanced treatments and personalized care plans. Regain your mobility today!@endsection
 @extends('layouts.default')    
 @section('content')
 

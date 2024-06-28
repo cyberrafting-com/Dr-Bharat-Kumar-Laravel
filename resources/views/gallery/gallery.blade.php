@@ -1,5 +1,5 @@
 @php($title = "Gallery | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@section('meta_desc')Explore our gallery to see Dr. Bharat Raju in action. View patient transformations, treatment success stories, and our state-of-the-art facilities in Navi Mumbai.@endsection
 @extends('layouts.default')    
 @section('content')
 

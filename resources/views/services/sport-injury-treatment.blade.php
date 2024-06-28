@@ -1,5 +1,5 @@
-@php($title = "Sport Injury Treatment | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Sport Injury Treatment Specialist  Navi Mumbai |Dr. Bharatkumar")  
+@section('meta_desc')Recover faster with Dr. Bharatkumar, Navi Mumbai's sports injury treatment specialist. Expert care for athletes, personalized rehabilitation plans, and top-notch facilities.@endsection
 @extends('layouts.default')    
 @section('content')
 

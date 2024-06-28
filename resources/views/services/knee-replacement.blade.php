@@ -1,7 +1,7 @@
-@php($title = "Knee Replacement | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Best Knee Replacement Surgeon in Navi Mumbai | Dr. Bharat Raju")  
+@section('meta_desc')Experience exceptional knee replacement surgery with Dr. Bharat Raju in Navi Mumbai. Advanced techniques, compassionate care, and excellent results. Schedule your consultation now! @endsection
 @extends('layouts.default')    
-@section('content')
+@section('content')     
 
 <section class="service-content">
   <div class="container">

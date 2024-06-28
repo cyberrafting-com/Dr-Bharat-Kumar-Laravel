@@ -1,5 +1,5 @@
-@php($title = "Fracture Treatment | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Best Doctor for Fracture Treatment | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
+@section('meta_desc')Dr. Bharat Raju offers expert fracture treatment in Navi Mumbai. Compassionate care, quick recovery, and comprehensive orthopedic services. Contact us for immediate assistance.@endsection
 @extends('layouts.default')    
 @section('content')
 

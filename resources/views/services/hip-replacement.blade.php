@@ -1,5 +1,5 @@
-@php($title = "Hip Replacement | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Top Hip Replacement Surgeon in Navi Mumbai | Dr. Bharat Raju")  
+@section('meta_desc')Get the best hip replacement treatment in Navi Mumbai with Dr. Bharat Raju. Advanced techniques, personalized care, and successful outcomes. Schedule your appointment now!@endsection
 @extends('layouts.default')    
 @section('content')
 

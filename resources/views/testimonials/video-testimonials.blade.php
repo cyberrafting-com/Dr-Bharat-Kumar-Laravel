@@ -1,5 +1,5 @@
-@php($title = "Testimonials | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Patient Testimonials  Dr. Bharat Kumar, Orthopedic Surgeon Navi Mumbai")  
+@section('meta_desc')Hear from patients who have benefited from Dr. Bharat Kumar's orthopedic expertise in Navi Mumbai. Real stories of recovery and improved quality of life. @endsection
 @extends('layouts.default')    
 @section('content')
 

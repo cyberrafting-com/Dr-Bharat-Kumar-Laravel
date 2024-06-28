@@ -1,5 +1,5 @@
-@php($title = "Contact Us | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Contact Dr. Bharatkumar Raju, Orthopedic Surgeon Navi Mumbai")  
+@section('meta_desc')Get in touch with Dr. Bharatkumar Raju for expert orthopedic care in Navi Mumbai. Schedule appointments, ask questions, and start your journey to recovery today!@endsection
 @extends('layouts.default')    
 @section('content')
 

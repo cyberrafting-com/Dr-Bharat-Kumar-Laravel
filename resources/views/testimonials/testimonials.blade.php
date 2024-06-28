@@ -1,5 +1,5 @@
-@php($title = "Testimonials | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Google Reviews for Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
+@section('meta_desc')Read authentic Google reviews from patients who trust Dr. Bharat Raju for their orthopedic care in Navi Mumbai. Discover why he is the preferred choice for joint and bone treatments.@endsection
 @extends('layouts.default')    
 @section('content')
 

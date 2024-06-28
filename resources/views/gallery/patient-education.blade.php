@@ -1,5 +1,5 @@
-@php($title = "Patient Education | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Patient Education Videos On Orthocare and Treatment by Dr. Bharatkumar Raju")  
+@section('meta_desc')Watch Dr. Bharatkumar Raju's educational videos on orthocare and treatments. Gain valuable insights and tips from Navi Mumbai's leading orthopedic surgeon.@endsection
 @extends('layouts.default')    
 @section('content')
 

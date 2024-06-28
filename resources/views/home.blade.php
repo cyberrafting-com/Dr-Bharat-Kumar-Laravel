@@ -1,5 +1,6 @@
-@php($title = "Dr. Bharat, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "Best Orthopedic & Joint Replacement Surgeon in Navi Mumbai | Dr. Bharatkumar")  
+@section('meta_desc')Choose Dr. Bharatkumar for top-notch orthopedic and joint replacement surgery in Navi Mumbai. Trusted expertise, cutting-edge technology, and patient-focused care.
+@endsection
 @extends('layouts.default')    
 @section('content')  
 

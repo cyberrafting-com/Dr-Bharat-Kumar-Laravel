@@ -1,5 +1,5 @@
-@php($title = "About Me | Dr. Bharat Raju, Orthopedic Surgeon, Navi Mumbai")  
-@section('meta_desc') @endsection
+@php($title = "About Dr. Bharatkumar Raju, Orthopedic Surgeon Navi Mumbai")  
+@section('meta_desc')Learn more about Dr. Bharatkumar Raju, a leading orthopedic surgeon in Navi Mumbai. Expertise in knee, hip, and joint replacements. Your trusted partner in orthopedic care.@endsection
 @extends('layouts.default')    
 @section('content')
 
