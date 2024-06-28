@@ -106,7 +106,7 @@
           <div class="col-md-6">
               <div class="intro--area">
                   <h3>Introducing Advanced Robotic Knee Replacement Surgery</h3>
-                  <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:Benefits of Robotic Surgery</p>
+                  <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:</p>
               </div>
               <div class="knee-replacement-1 pt-3">
                   <i class="fa-solid fa-circle-chevron-right"></i>
@@ -214,7 +214,6 @@
                       </div>
                   </div>
               </div>
-              
               <div class="item">
                 <div class="col-md-12">
                   <div class="slide-item">
@@ -227,7 +226,6 @@
                   </div>
                 </div>
               </div>
-              
               <div class="item">
                   <div class="col-md-12">
                     <div class="slide-item">
