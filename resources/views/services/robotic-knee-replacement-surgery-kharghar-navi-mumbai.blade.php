@@ -58,7 +58,7 @@
             <div class="col-md-6">
                 <div class="intro--area">
                     <h3>Introducing Advanced Robotic Knee Replacement Surgery</h3>
-                    <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:Benefits of Robotic Surgery</p>
+                    <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:</p>
                 </div>
                 <div class="knee-replacement-1 pt-3">
                     <i class="fa-solid fa-circle-chevron-right"></i>
@@ -592,7 +592,7 @@
             <div class="row">
                 <div class="conclusion-content">
                     <h2>Conclusion</h2>
-                    <p>Robotic knee replacement in Navi Mumbai by Dr. Bharat Kumar offers a promising solution for those suffering from debilitating knee pain. With advanced technology and a skilled surgeon, you can look forward to a quicker recovery and a better quality of life. If you're considering knee replacement surgery, exploring robotic options with Dr. Kumar could be the key to your journey toward pain-free living.</p>
+                    <p>Robotic knee replacement in Navi Mumbai by Dr. Bharat Kumar offers a promising solution for those suffering from debilitating knee pain. With advanced technology and a skilled surgeon, you can look forward to a quicker recovery and a better quality of life. If you're considering knee replacement surgery, exploring robotic options with Dr. Bharat Kumar could be the key to your journey toward pain-free living.</p>
                 </div>
             </div>
         </div>
