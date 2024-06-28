@@ -21,7 +21,7 @@
 				<p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
 				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
 				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
-				<p class="mb-4 font-set">Dr. G Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
+				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
 
 			</div>
 		</div>
