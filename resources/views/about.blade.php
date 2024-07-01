@@ -3,6 +3,22 @@
 @extends('layouts.default')    
 @section('content')
 
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>About</h2>
+                    <ul>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li>About</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <section class="abt-sec pt-60">
 	<div class="container">
 		<div class="row align-items-center">
@@ -469,16 +485,5 @@
 
 	</div>
 </section>
-
-
-
-<!-- <p class="no_wrap">
-  And Of-course this paragrapgh with not wrap Tab
-</p>
-
-<p class="link">
-  Just in case you want to go through the tutorial follow this link: <a href="http://www.sevensignature.com/blog/code/responsive-pure-css-tabs/">Responsive Pure CSS Tabs</a>
-</p> -->
-
 
 @stop

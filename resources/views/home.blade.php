@@ -188,6 +188,40 @@
 </section>
 <!--video section end--->
 
+<!-- Consulting Hospitals -->
+<section class="mt-5 mb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-12">
+        <h2 class="h2-head-1">Hospital Attachments</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-6 col-12">
+        <div class="attachement-box">
+          <img src="{{ asset('/resources/assets/images/mgm-hospital-logo.png')}}" alt="mgm-hospital-logo" class="img-fluid">
+          <h3 class="appointment-two__feature-title">MGM Hospital, Vashi</h3>
+          <p><i class="fa-solid fa-location-dot"></i>Plot no - 35, Sector 3, Vashi, Navi Mumbai, Maharashtra 400703.</p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12">
+        <div class="attachement-box">
+          <img src="{{ asset('/resources/assets/images/apollo-hospitals-logo.png')}}" alt="apollo-hospitals-logo" class="img-fluid">
+          <h3 class="appointment-two__feature-title">Apollo Hospitals, Belapur</h3>
+          <p><i class="fa-solid fa-location-dot"></i>Plot # 13, Off Uran Road, Parsik Hill Rd, Sector 23, CBD Belapur, Navi Mumbai, Maharashtra 400614.</p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12">
+        <div class="attachement-box">
+          <img src="{{ asset('/resources/assets/images/aayush-hospital-logo.png')}}" alt="aayush-hospital-logo" class="img-fluid">
+          <h3 class="appointment-two__feature-title">Aayush Hospital, Kalyan</h3>
+          <p><i class="fa-solid fa-location-dot"></i>Building No. E2, 2nd & 3rd Floor, Radha Nagar Shopping Complex, Radha Nagar, Khadakpada, Kalyan, Mumbai 421301.</p>
+        </div>
+      </div>      
+    </div>
+  </div>
+</section>
+
 <section class="testimonials">
     <div class="abt_heading_wrapper text-center">
       <h2 class="f600">Your trusted Orthopedic advisor for life.</h2>

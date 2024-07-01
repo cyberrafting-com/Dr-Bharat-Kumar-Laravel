@@ -3,6 +3,22 @@
 @extends('layouts.default')    
 @section('content')
 
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Images</h2>
+                    <ul>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li>Images</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <section class="lightbox-gallery" style="padding: 90px 0;">
      
     <div class="container"> 

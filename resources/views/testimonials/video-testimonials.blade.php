@@ -3,6 +3,22 @@
 @extends('layouts.default')    
 @section('content')
 
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Video Testimonials</h2>
+                    <ul>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li>Video Testimonials</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <section class="testimonials">
   <div class="container">
     <div class="abt_heading_wrapper" style="background-color: transparent;padding: 40px 0;">

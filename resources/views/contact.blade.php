@@ -3,6 +3,22 @@
 @extends('layouts.default')    
 @section('content')
 
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Contact</h2>
+                    <ul>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li>Contact</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <section class="sec-contact">
 	<div class="container">
 		<h2 class="blue pb-60 text-center f700">Contact Us</h2>  

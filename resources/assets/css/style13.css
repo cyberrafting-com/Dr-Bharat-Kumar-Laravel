@@ -205,8 +205,8 @@ h3 {
 }
 
 .navbar-brand {
-    width: 350px;
-    padding: 8px 0 8px 49px;
+    width: 250px;
+    /* padding: 8px 0 8px 49px; */
 }
 
 .navbar.fixed-top .navbar-brand h2 {
@@ -248,7 +248,7 @@ h3 {
 
 .footer {
     background: #f2f2f2;
-    padding: 80px 0;
+    padding: 50px 0;
 }
 
 .footer-directions p a {
@@ -275,11 +275,11 @@ h3 {
 
 .footer-title {
     font-family: martel sans bold, Helvetica, sans-serif;
-    font-size: 26px;
+    font-size: 23px;
     line-height: 32px;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
     color: #00626f;
-    text-align: center;
+    font-weight: 500;
 }
 
 .footer .foot-links ul li a {
@@ -479,7 +479,7 @@ h3 {
     /*margin-top: 100px;*/
     background-color: #F4F1E8;
     margin-bottom: 20px;
-    padding-top: 114px;
+    /* padding-top: 114px; */
 }
 
 .testimonials .slide-item {
@@ -2438,3 +2438,126 @@ h4.f6003 {
     width: 32px;
     margin-right: 10px;  
 }
+.footer-info-contact {
+    position: relative;
+    padding-left: 40px;
+    margin-bottom: 16px;
+}
+.footer-info-contact i {
+    position: absolute;
+    left: 0;
+    font-size: 20px;
+    color: #00626f;
+    top: 6px;
+}
+.footer-info-contact h3 {
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+.footer-info-contact span {
+    font-size: 15px;
+}
+.footer-info-contact span a{
+    color: #212529;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+/* Breadcrumbs Design Here*/
+.page-title-area.item-bg-1 {
+    background-image: url(../images/banner-bg.jpg);
+    background-position: inherit;
+    padding: 65px;
+}   
+.page-title-area::before {
+    content: '';
+    /* position: absolute; */
+    left: 0;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: #383c6f;
+    opacity: .77;
+  }  
+  .page-title-content {
+    /* text-align: center; */
+    margin-top: -10px;
+  }  
+  .page-title-content h2 {
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 10px;
+  }  
+  .page-title-content ul {
+    padding-left: 0;
+    list-style-type: none;
+    margin-top: 12px;
+    margin-bottom: 0;
+  }
+  .page-title-content ul li {
+    color: #fff !important;
+    display: inline-block;
+    position: relative;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+  }  
+  .page-title-content ul li a {
+    display: inline-block;
+    color: #fff;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+  }  
+  .page-title-content ul li a:hover {
+    color: #207ef7;
+  }  
+  .page-title-content ul li::before {
+    content: '';
+    position: absolute;
+    right: -15px;
+    top: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #d3ceb2;
+  }  
+  .page-title-content ul li:last-child::before {
+    display: none;
+  }
+  .srvc-meta{
+    margin-top: 40px;
+  }
+  /* hospital attachments css */
+  .h2-head-1{
+    color: #00626f;
+    text-align: center;
+    font-weight: 700;
+    font-size: 3rem;
+  }
+  .attachement-box{
+    padding: 40px;
+    text-align: center;
+    margin-right: 10px;
+    flex: 0 0 32%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 40px;
+  }  
+  .attachement-box img{
+    width: 115px;
+    padding-bottom: 20px;
+  }  
+  .attachement-box p{
+    font-size: 16px;
+    padding-top: 13px;
+    font-family: "Roboto", sans-serif;
+  }  
+  .attachement-box i{
+    margin-right: 5px;
+  }

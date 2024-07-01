@@ -3,30 +3,23 @@
 @extends('layouts.default')    
 @section('content')
 
-<section class="service-content">
-  <div class="container">
-  	<div class="row justify-content-center no-gutters">
-  		<div class="col-md-5">
-  			<div class="service-img">
-  				<img src="{{ asset('/resources/assets/images/service-2.jpg')}}">
-  			</div>
-  		</div>
-  		<div class="col-md-5">
-  			<div class="service-title">
-  				<h2 class="text-white">Knee Replacement</h2>
-  			</div>
-  		</div>
-  	</div>
-  </div>
-</section>
-
-<section class="robotic-area">
-    <div class="container-auto">
-        <div class="heading-set">
-            <h2>Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
+                    <ul>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li>Robotic Knee Replacement</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
+</div>
 
+<section class="robotic-area">
     <div class="container">
         <div class="knee-banner text-center">
             <img class="desk--view" src="{{ asset('/resources/assets/images/robotics/robotic-knee-banner-for-page.jpg')}}" alt="">

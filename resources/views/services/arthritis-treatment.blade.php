@@ -3,22 +3,21 @@
 @extends('layouts.default')    
 @section('content')
 
-<section class="service-content">
-  <div class="container">
-  	<div class="row justify-content-center no-gutters">
-  		<div class="col-md-5">
-  			<div class="service-img">
-  				<img src="images/service-5.jpg">
-  			</div>
-  		</div>
-  		<div class="col-md-5">
-  			<div class="service-title">
-  				<h2 class="text-white">Arthritis Treatment</h2>
-  			</div>
-  		</div>
-  	</div>
-  </div>
-</section>
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Arthritis Treatment</h2>
+                    <ul>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li>Arthritis Treatment</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="srvc-meta">
 	<div class="container">
