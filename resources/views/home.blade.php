@@ -33,7 +33,7 @@
 </div>
 <!-- end slider -->   
 
-<section class="sec-service">
+<section class="sec-service">       
   <div class="container-fluid">
     <div class="row no-gutters d-flex justify-content-center">
       <div class="col-md-2">
