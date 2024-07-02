@@ -415,7 +415,7 @@
             <div class="col-md-6">
                 <div class="pushed-box">
                     <div class="pushed-header">
-                        <span class="header-1">Recovery and Rehabilitation after Knee Robotic Knee Replacement Surgery
+                        <span class="header-1">Recovery and Rehabilitation after Robotic Knee Replacement Surgery
                         </span>
                         <!-- <span class="header-2">LOREM!</span>
                         <span class="header-3">Lorem morum herum knasum lillum buggum.</span> -->

@@ -28,7 +28,7 @@
         </div>
 		<div class="row justify-content-center mb-4">
 			<div class="col-md-11">
-				<p class="pb-2">Knee replacement, also known as knee arthroplasty, is a surgical procedure to replace the weight bearing surfaces of the knee joint to relieve pain and disability.</p>
+				<p class="pb-2">Knee replacement, also known as knee arthroplasty, is a surgical procedure to replace the weight-bearing surfaces of the knee joint to relieve pain and disability.</p>
                 <p class="pb-2">Knee replacement surgery can be performed as a partial or total knee replacement. In general, the surgery consists of replacing the diseased or damaged joint surfaces of the knee with metal and plastic components shaped to allow continued motion of the knee.</p>
                 <p class="pb-2">It is most commonly performed for osteoarthritis, and also for other knee diseases such as rheumatoid arthritis, psoriatic arthritis, severe deformity post trauma and cartilage defects.</p>
                 <p>The most common age group for knee replacement is between 50-80yrs.</p>

@@ -70,7 +70,7 @@
                             <ul class="pb-3 ml-3">
                                 <li>Family history: Some types of arthritis run in families, so you may be more likely to develop arthritis if your parents or siblings have the disorder. Your genes can make you more susceptible to environmental factors that may trigger arthritis.</li>
                                 <li>Age: The risk of many types of arthritis — including osteoarthritis, rheumatoid arthritis and gout — increases with age.</li>
-                                <li>Gender:Women are more likely than men to develop rheumatoid arthritis and osteoarthritis.</li>
+                                <li>Gender: Women are more likely than men to develop rheumatoid arthritis and osteoarthritis.</li>
                                 <li>Previous joint injury: People who have injured a joint, perhaps while playing a sport or a fracture are more likely to eventually develop arthritis in that joint.</li>
                                 <li>Obesity: Carrying excess pounds puts stress on joints, particularly your knees, hips and spine. People with obesity have a higher risk of developing arthritis.</li>
                             </ul>

@@ -29,7 +29,7 @@
 
 		<div class="row justify-content-center mb-4">
 			<div class="col-md-11">
-				<p class="pb-2">A fracture is a broken bone. It can range from a thin crack to a complete break. Most fractures happen when a bone is impacted by more force or pressure than it can support.</p>
+				<p class="pb-2">A fracture is a broken bone. It can range from a thin crack to a complete break. Most fractures occur when a bone is subjected to more force or pressure than it can support.</p>
 			</div>
 		</div>
 
@@ -90,7 +90,7 @@
                             <div class="panel-body">
                             <ul class="pb-3 ml-3">
                                 <li>Incomplete, Non-displaced fracture- Immobilisation in a splint or cast.</li>
-                                <li>Complete, Displaced fracture-Fixation of fractures using Plate and screws or Rods.</li>
+                                <li>Complete, displaced fracture: Fixation of fractures using plates and screws or rods.</li>
                             </ul>
                             </div>
                         </div>

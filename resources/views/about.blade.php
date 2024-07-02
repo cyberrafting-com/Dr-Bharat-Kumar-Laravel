@@ -37,8 +37,7 @@
 				<p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
 				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
 				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
-				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
-
+				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR Hospital, Kharghar, heading the orthopaedic department and working as a full-time consultant at MGM Hospital, Vashi.</p>
 			</div>
 		</div>
 	</div>
@@ -65,10 +64,10 @@
 
 
 					<li class="pb-1"><i class='far fa-caret-square-right'></i>&nbsp;<span class="bold-txt">
-					    MMC Registration no.:</span> <br> <br> <b>2004/02/1102 DATED 23 FEB 2004</b></li>
+					    MMC Registration No.:</span> <br> <br> <b>2004/02/1102 DATED 23 FEB 2004</b></li>
 
 
-					<li class="pb-1"><i class='far fa-caret-square-right'></i>&nbsp;<span class="bold-txt">Diploma In OrthopaedicsS</span>
+					<li class="pb-1"><i class='far fa-caret-square-right'></i>&nbsp;<span class="bold-txt">Diploma In Orthopaedics</span>
 
 						<br> <br><b>SANCHETI INSTITUTE OF ORTHOPAEDICS AND REHABILITATION.</b> <br><b>JUNE 2006 to JUNE 2008.</b> </br>
 						<b>D .ORTHO PASSING: JULY 2008</b>
@@ -162,8 +161,7 @@
 					<li class="pb-1"><i class='far fa-caret-square-right'></i>&nbsp;<span class="bold-txt">Jan 2011- June 2011 : </span>
 
 						<span class="m-left">
-							<p>LECTURER, JEHANGIR HOSPITAL, PUNE</p>
-
+							<p>Lecturer, Jehangir Hospital, Pune.</p>
 						</span>
 
 					</li>
