@@ -47,11 +47,10 @@
                     <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="">
                 </div>
             </div>
-
             <div class="col-md-6">
                 <div class="intro--area">
                     <h3>Introducing Advanced Robotic Knee Replacement Surgery</h3>
-                    <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:</p>
+                    <p><a href="{{route('about')}}" class="interlink">Dr. Bharat Kumar,</a> is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:</p>
                 </div>
                 <div class="knee-replacement-1 pt-3">
                     <i class="fa-solid fa-circle-chevron-right"></i>
@@ -99,10 +98,9 @@
                     </a>
                 </div> 
             </div>
-        </div>
+        </div>   
     </div>
 </section>
-
 
 <section class="doc-info">
     <div class="container">
@@ -131,7 +129,6 @@
         </div>
     </div>
 </section>
-
 
 <section class="system-work">
     <div class="container">
@@ -245,7 +242,6 @@
         </div>
     </div>
 </section>
-
 
 <section class="wide-bg">
     <div class="wide-txt">
@@ -533,7 +529,6 @@
 
 <section class="common-concerns">
     <div class="container">
-
         <div class="row">
             <div class="col-md-6">
                 <div class="concern-set">
@@ -562,7 +557,7 @@
     </div>
 </section>
 
-<section class="showcase">
+<!-- <section class="showcase">
     <img src="{{ asset('/resources/assets/images/robotics/background-knee-replacement-surgery.png')}}" alt="Picture">
     <div class="overlay-set">
         <h2>Life After Knee Replacement</h2>
@@ -574,8 +569,76 @@
             <i class="fa-solid fa-circle-chevron-right"></i>
             <li>Regular follow-ups after Robotic knee replacement in Navi Mumbai with <span class="doc---name">Dr. Bharat Kumar</span> ensure <br>
                 that any issues are promptly addressed, keeping you on the path to a healthy, active life.</li>
-
         </ul>
+    </div>
+</section> -->
+
+<!-- Life After Knee Replacement Section -->
+<div class="robotic-treatment mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 offset-lg-5 col-xs-12">
+                <div class="rob-treatment-con">
+                    <h2 class="text-white">Life After Knee Replacement</h2>
+                    <ul>
+                        <i class="fa-solid fa-circle-chevron-right"></i>
+                        <li>A successful knee replacement can dramatically improve your quality of life.</li>
+                        <i class="fa-solid fa-circle-chevron-right"></i>
+                        <li>Most patients experience significant pain relief, improved mobility, and a greater ability to perform daily activities.</li>
+                        <i class="fa-solid fa-circle-chevron-right"></i>
+                        <li>Regular follow-ups after Robotic knee replacement in Navi Mumbai with <a href="{{route('about')}}" class="interlink">Dr. Bharat Kumar</a> ensure that any issues are promptly addressed, keeping you on the path to a healthy, active life.</li>
+                    </ul>  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- faqs section -->
+<section>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    FAQs
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                            <div class="panel-body">
+                                <h3 class="pb-2 f600">1) What is robotic knee replacement surgery?
+                                </h3>
+                                <p class="pb-4">Robotic knee replacement surgery is a procedure where a robotic system assists the surgeon in replacing the damaged parts of the knee with artificial components, ensuring greater accuracy and better outcomes.
+                                </p>
+                                
+                                <h3 class="pb-2 f600">2) How long does the robotic knee replacement surgery take?
+                                </h3>
+                                <p class="pb-4">The surgery typically takes a few hours, depending on the complexity of the case and the patient's specific condition.</p>
+
+                                <h3 class="pb-2 f600">3) What are the risks associated with robotic knee replacement?</h3>
+                                <p class="pb-4">As with any surgery, there are risks, including infection, blood clots, and implant issues. However, the precision of robotic surgery often reduces these risks.
+                                </p>  
+                                
+                                <h3 class="pb-2 f600">4) How soon can I walk after robotic knee replacement surgery?</h3>
+                                <p class="pb-4">Most patients are encouraged to start moving their knee and walking with assistance shortly after surgery, usually within 24 hours.
+                                </p>   
+
+                                <h3 class="pb-2 f600">5) Is robotic knee replacement covered by insurance?
+                                </h3>
+                                <p class="pb-4">Coverage varies by insurance provider and plan. It's important to check with your insurance company to understand what is covered and any out-of-pocket costs you might incur.
+                                </p>
+                                <p>By choosing robotic knee replacement in Kharghar with Dr. Bharat Kumar, you're opting for precision, expertise, and compassionate care. Don't let knee pain hold you back—take the first step towards a pain-free life today.
+                                </p>   
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
     </div>
 </section>
 
@@ -590,7 +653,8 @@
             </div>
         </div>
     </div>
-
 </section>
+
+
 
 @stop

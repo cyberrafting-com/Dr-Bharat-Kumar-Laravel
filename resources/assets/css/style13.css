@@ -197,7 +197,6 @@ h3 {
 }
 
 .navbar-expand-md.fixed-top .navbar-nav .dropdown-menu {
-    top: 70px;
 }
 
 .navbar.fixed-top {
@@ -232,7 +231,7 @@ h3 {
 }
 
 .navbar-expand-md .navbar-nav .dropdown-menu {
-    top: 70px;
+    /* top: 70px; */
 }
 
 .dropdown-item.active,
@@ -301,11 +300,11 @@ h3 {
 
 .copyright-content {
     padding: 8px 0;
-    background: #f8f8f8;
+    background: #3f7981;
 }
 
 .copyright-content p {
-    color: #b1b1b1;
+    color: #fff;
 }
 
 
@@ -2561,3 +2560,69 @@ h4.f6003 {
   .attachement-box i{
     margin-right: 5px;
   }
+  /*  */
+  @media only screen and (max-width: 420px)
+{.robotic-treatment {
+    width: 100% !important;
+    background: #044c7f !important;
+}}
+@media only screen and (max-width: 768px)
+{.robotic-treatment {
+    width: 100% !important;
+    background: #044c7f !important;
+}}
+@media only screen and (max-width: 1024px)
+{.robotic-treatment {
+    background-size: 55% !important;
+}}
+.robotic-treatment {
+  width: 100%;
+  background: #0a7988 url(../images/life-after-knee-replacementbg.jpg) left top no-repeat;
+  position: relative;
+  padding-bottom: 85px;
+  padding-top: 40px;
+}
+.rob-treatment-con {
+  padding: 66px 0 20px;
+  overflow: hidden;
+}
+.rob-treatment-con ul li {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #fff;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  line-height: 27px;
+  list-style-type: none;
+  padding-left: 30px;
+}
+.rob-treatment-con ul i {
+    float: left;
+    color: #fff;
+    padding-top: 6px;
+}
+.rob-treatment-con h2{
+    text-align: left;
+    padding-top: unset;
+    padding-bottom: unset;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
+    padding-bottom: 20px;
+}
+.rob-treatment-con p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+}
+@media only screen and (max-width: 420px)
+{.rob-treatment-con ul li {
+    float: none;
+    width: 100%;
+    padding-left: 10px;
+}}
+.departments-wrap-layout2 {
+  margin-top: 70px;
+}      
+.interlink{color: #dab968;}
+.div{}

@@ -21,6 +21,12 @@
 
 <div class="srvc-meta">
 	<div class="container">
+        <div class="row justify-content-center mb-4">
+            <div class="col-md-11">  
+                <img src="{{ asset('/resources/assets/images/hip-replacement-service-img.jpg')}}" class="img-fluid" alt="arthritis-service-img">
+            </div>  
+        </div>
+
 		<div class="row justify-content-center mb-4">
 			<div class="col-md-11">
 				<p class="pb-3">Total hip replacement is most commonly used to treat joint failure caused by osteoarthritis. Other indications include rheumatoid arthritis, certain hip fractures, benign and malignant bone tumors. The aim of the procedure is pain relief and improvement in hip function. Hip replacement is usually considered only after other therapies, such as physical therapy and pain medications, have failed.</p>
