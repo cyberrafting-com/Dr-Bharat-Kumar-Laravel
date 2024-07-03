@@ -32,6 +32,9 @@
 
 </IfModule>
 
+
+
+
 Redirect 301 /testimonials.php https://www.drbharatkumar.com/testimonials/google-reviews
 Redirect 301 /services.php https://drbharatkumar.com/services/robotic-knee-replacement-surgery-kharghar-navi-mumbai
 Redirect 301 /hip-replacement.php https://drbharatkumar.com/services/hip-replacement
