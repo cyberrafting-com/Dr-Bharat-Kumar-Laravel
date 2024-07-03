@@ -24,7 +24,7 @@
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-location-arrow" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -33,7 +33,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-phone" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -42,7 +42,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-clock" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -58,7 +58,7 @@
 		<div class="row pt-4">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-location-arrow" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -67,7 +67,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-phone" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -76,7 +76,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-clock" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -92,7 +92,7 @@
 		<div class="row pt-4">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-location-arrow" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -101,7 +101,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-phone" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -110,7 +110,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon d-flex">
 						<i class="fa fa-clock" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -126,7 +126,7 @@
 		<div class="row pt-4">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon">
 						<i class="fa fa-location-arrow" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -135,7 +135,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon">
 						<i class="fa fa-phone" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
@@ -144,7 +144,7 @@
 					</div>
 				</div>
 				<div class="d-flex pt-4">
-					<div class="ft-contact-cta-icon d-flex align-items-center justify-content-center">
+					<div class="ft-contact-cta-icon">
 						<i class="fa fa-clock" aria-hidden="true"></i>
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
