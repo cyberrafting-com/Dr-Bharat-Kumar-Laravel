@@ -2676,3 +2676,50 @@ h4.f6003 {
     color: #000;
     font-weight: 400;
 }
+.default-btn {
+    border: unset;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+    z-index: 1;
+    text-transform: capitalize;
+    background-color: #dab968;
+    color: #ffffff;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    border-radius: 30px;
+    opacity: 1;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-family: 'Nunito', sans-serif;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .default-btn span {
+    position: absolute;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #085766;
+    -webkit-transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
+    transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    border-radius: 5px;
+    opacity: 1;
+  }
+  
+  .default-btn:hover {
+    color: #ffffff !important;
+  }
+  
+  .default-btn:hover span {
+    width: 555%;
+    height: 562.5px;
+  }

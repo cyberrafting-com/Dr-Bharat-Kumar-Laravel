@@ -19,7 +19,35 @@
     </div>
 </div>
 
+<!--  -->
 <section>
+	<div class="container">
+		<div class="row d-flex justify-content-center">
+			<div class="col-lg-2 col-md-3 col-12">
+				<a href="#Kharghar" class="default-btn">Kharghar
+					<span style="top: 1.85001px; left: 158.4px;"></span>
+				</a>   
+			</div>
+			<div class="col-lg-2 col-md-3 col-12">
+				<a href="#Vashi" class="default-btn">Vashi
+					<span style="top: 1.85001px; left: 158.4px;"></span>
+				</a>
+			</div>
+			<div class="col-lg-2 col-md-3 col-12">
+				<a href="#Kalyan" class="default-btn">Kalyan
+					<span style="top: 1.85001px; left: 158.4px;"></span>
+				</a>
+			</div>
+			<div class="col-lg-2 col-md-3 col-12">
+				<a href="#Belapur" class="default-btn">Belapur
+					<span style="top: 1.85001px; left: 158.4px;"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="Kharghar">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
@@ -38,7 +66,8 @@
 					</div>
 					<div class="ft-contact-cta-text headline pera-content">
 						<h3>Phone</h3>
-						<p><a href="tel:+916262840940">+91 6262 840 940 or +91 6262 690 790</a></p>
+						<p><a href="tel:+916262840940">+91 6262 840 940</a></p>
+						<p><a href="tel:+916262690790">+91 6262 690 790</a></p>
 					</div>
 				</div>
 				<div class="d-flex pt-4">
@@ -55,6 +84,11 @@
 				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d120691.24710370477!2d73.05856!3d19.037275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c23ecbea307f%3A0xc51ce74eb4a7c67!2sDr%20Bharat%20Kumar!5e0!3m2!1sen!2sin!4v1720002621485!5m2!1sen!2sin" width="100%" height="410" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 		</div>
+	</div>
+</section>
+
+<section id="Vashi">
+	<div class="container">
 		<div class="row pt-4">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
@@ -89,6 +123,11 @@
 			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d120665.30879017235!2d72.993898!3d19.072929!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c0cff7a1da49%3A0x5208e691d43368c5!2sDr%20Bharat%20Kumar%20-%20Best%20Orthopedic%20Surgeon%20%2F%20Doctor%20in%20Navi%20Mumbai%2C%20Hip%2C%20Knee%20Joint%20Replacement%20Surgeon%20Vashi%2C%20Navi%20Mumbai!5e0!3m2!1sen!2sin!4v1720004364714!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 		</div>
+	</div>
+</section>
+
+<section id="Kalyan">
+	<div class="container">
 		<div class="row pt-4">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
@@ -123,6 +162,11 @@
 				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7714036.16155178!2d73.138107!3d19.25542!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79686e15929b1%3A0xcc95df7b89d248e1!2sAayush%20Hospital!5e0!3m2!1sen!2sin!4v1720004799893!5m2!1sen!2sin" width="100%" height="390" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 		</div>
+	</div>
+</section>
+
+<section id="Belapur">
+	<div class="container">
 		<div class="row pt-4">
 			<div class="col-lg-6 col-md-6 col-12 ft-contact-cta-items">
 				<div class="d-flex">
