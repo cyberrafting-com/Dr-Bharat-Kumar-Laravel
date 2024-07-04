@@ -29,13 +29,13 @@
 		<div class="row justify-content-center mb-4">  
 			<div class="col-md-11">
 				<p class="pb-2">From casual bikers and weekend warriors to best-in-class athletes, anyone can experience injuries. If you’ve experienced a sports-related injury or condition, we are here to help get you back to doing what you love.</p>
-                <p class="pb-2">Some of the sports related injuries that we address:</p>
+                <p class="pb-2">Some of the sports-related injuries that we address:</p>
                 <ul class="ml-3">
                 <li>Ankle Sprain</li>
                 <li>Knee Injuries</li>
-                <li>Tennis and Golfer's elbow</li>
+                <li>Tennis and Golfer's Elbow</li>
                 <li>Fractures and Dislocations</li>
-                <li>Rotator cuff injury</li>
+                <li>Rotator Cuff Injury</li>
                 </ul>
 			</div>
 		</div>
