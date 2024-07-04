@@ -8,10 +8,10 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Patient Education</h2>
+                    <h2>Patient Education Videos</h2>
                     <ul>
                         <li><a href="{{route('home')}}">Home</a></li>
-                        <li>Patient Education</li>
+                        <li>Patient Education Videos</li>
                     </ul>
                 </div>
             </div>
