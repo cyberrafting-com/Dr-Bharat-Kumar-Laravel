@@ -145,56 +145,10 @@
                   <p>Dr. Bharat Kumar, a leading orthopaedic and joint replacement surgeon in Navi Mumbai, offers cutting-edge robotic knee replacement surgeries in Kharghar, Navi Mumbai. With over a decade of experience, Dr. Bharat Kumar utilizes advanced robotic technology to provide highly precise, customized, and effective knee replacements.
                   </p>
               </div>
-              <div class="knee-replacement-1 pt-3">
-                  <i class="fa-solid fa-circle-chevron-right"></i>
-                  <div>
-                      <p><span class="bold-set">Less Pain:</span>Experience a more comfortable recovery.</p>
-                  </div>
-              </div>
-              <div class="knee-replacement-1 pt-2">
-                  <i class="fa-solid fa-circle-chevron-right"></i>
-                  <div>
-                      <p><span class="bold-set">Faster Recovery:</span>Get back to your daily activities sooner.
-                      </p>
-                  </div>
-              </div>
-              <div class="knee-replacement-1 pt-2">
-                  <i class="fa-solid fa-circle-chevron-right"></i>
-                  <div>
-                      <p><span class="bold-set">Enhanced Precision & Accuracy:</span>Achieve better surgical outcomes.
-                      </p>
-                  </div>
-              </div>
-              <div class="knee-replacement-1 pt-2">
-                  <i class="fa-solid fa-circle-chevron-right"></i>
-                  <div>
-                      <p><span class="bold-set">Customized Surgical Planning:</span>Personalized to your unique anatomy.
-                      </p>
-                  </div>
-              </div>
-              <div class="knee-replacement-1 pt-2">
-                  <i class="fa-solid fa-circle-chevron-right"></i>
-                  <div>
-                      <p><span class="bold-set">Natural Feeling of the New Joint:</span>Enjoy improved joint function.
-                      </p>
-                  </div>
-              </div>
-              <div class="knee-replacement-1 pt-2">
-                  <i class="fa-solid fa-circle-chevron-right"></i>
-                  <div>
-                      <p><span class="bold-set">Minimally Invasive Technique:</span>Smaller incisions and less scarring.
-                      </p>
-                  </div>
-              </div>
-              <div class="book-online-btn mt-4">
-                  <a href="{{route('contact')}}">Schedule Your Consultation Today
-                  </a>
-              </div> 
           </div>
           <div class="col-md-6">
               <div class="intro--area-img embed-responsive embed-responsive-16by9">
                   <iframe width="100%" height="900" src="https://www.youtube.com/embed/h6VtRfaZogY" title="Revolutionizing Knee Surgery: Experience Robotic Knee Replacement at MITR Hospital, Kharghar!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                  <!-- <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="" class="img-fluid"> -->
               </div>
           </div>
         </div>
