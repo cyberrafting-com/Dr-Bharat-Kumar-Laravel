@@ -4,8 +4,8 @@
 @extends('layouts.default')    
 @section('content')  
 
-<!-- start slider here -->
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<!-- start Desktop slider here -->
+<div id="carouselExampleIndicators" class="carousel slide d-lg-block d-md-block d-none" data-ride="carousel">
   <!-- <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -15,12 +15,9 @@
     <div class="carousel-item active">
       <img src="{{ asset('/resources/assets/images/slider-1.jpg')}}" class="d-block w-100 img-fluid" alt="slider-1">
     </div>
-    <!-- <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div> -->
+      <img src="{{ asset('/resources/assets/images/slider-2.jpg')}}" class="d-block w-100" alt="slider-2">
+    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -32,6 +29,29 @@
   </a>
 </div>
 <!-- end slider -->   
+
+<!-- start Mobile slider here -->
+<div id="carouselExampleIndicators-mob" class="carousel slide d-lg-none d-md-none d-block" data-ride="carousel">
+  <!-- <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol> -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ asset('/resources/assets/images/mob-slider.jpg')}}" class="d-block w-100 img-fluid" alt="slider-1">
+    </div>
+  </div>
+  <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a> -->
+</div>
+<!-- end slider -->  
 
 <section class="sec-service">       
   <div class="container-fluid">
