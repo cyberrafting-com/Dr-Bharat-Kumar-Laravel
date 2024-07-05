@@ -1,6 +1,5 @@
 @php($title = "Best Orthopedic & Joint Replacement Surgeon in Navi Mumbai | Dr. Bharatkumar")  
-@section('meta_desc')Choose Dr. Bharatkumar for top-notch orthopedic and joint replacement surgery in Navi Mumbai. Trusted expertise, cutting-edge technology, and patient-focused care.
-@endsection
+@section('meta_desc')Dr. Bharat Kumar, a leading orthopaedic and joint replacement surgeon in Navi Mumbai, offers cutting-edge robotic knee replacement surgeries in Kharghar, Navi Mumbai.@endsection
 @extends('layouts.default')    
 @section('content')  
 
@@ -53,6 +52,18 @@
 </div>
 <!-- end slider -->  
 
+<!-- SEO Heading Design -->
+<section id="StripTitle">  
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+                <h1>DR. BHARATKUMAR - ROBOTIC KNEE REPLACEMENT SURGEON IN NAVI MUMBAI</h1>
+            </div>
+		</div>
+	</div>
+</section>
+
+
 <section class="sec-service">       
   <div class="container-fluid">
     <div class="row no-gutters d-flex justify-content-center">
@@ -103,18 +114,20 @@
 		<div class="row align-items-center pb-5">
 			<div class="col-md-5">
 				<div class="doc-img">
-					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}" class="img-fluid">
+					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}" class="img-fluid" alt="Dr. Bharat Kumar best robotic knee replacement surgeon in Navi Mumbai">
 				</div>
 			</div>
 			<div class="col-md-7">
 				<h2 class="blue">Meet, Dr. Bharat Kumar!</h2>
 				<p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
-				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
-				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
-				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR hospital, Kharghar heading orthopaedic department and working as a full time consultant at MGM Hospital, Vashi.</p>
+				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon in Kharghar, Navi Mumbai</p>
+				<p class="f600 blue mb-4">Best Robotic Knee Replacement Surgeon in Navi Mumbai</p>
+				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR Hospital, Kharghar, heading the orthopaedic department and working as a full-time consultant at MGM Hospital, Vashi. Dr. Bharat Kumar, considered the best robotic knee replacement surgeon in Navi Mumbai, is now performing robotic knee replacement surgeries at MITR Hospital, Kharghar, Navi Mumbai.
+        </p>
         <div class="book-online-btn">
             <a href="{{route('about')}}">View More
             </a>
+            <a href="https://payu.in/web/7C18937AD79349CBD7AC6880CF03B066" target="_blank">Book Appointment</a>
         </div> 
 			</div>
 		</div>
@@ -126,8 +139,11 @@
         <div class="row mt-30 mb-5">
           <div class="col-md-6">
               <div class="intro--area">
-                  <h3>Introducing Advanced Robotic Knee Replacement Surgery</h3>
-                  <p>Dr. Bharat Kumar, is transforming patient care with advanced robotic surgery. This technology offers numerous advantages:</p>
+                  <h3>Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar</h3>
+                  <h4 class="h4-head">Advanced Precision and Care
+                  </h4>
+                  <p>Dr. Bharat Kumar, a leading orthopaedic and joint replacement surgeon in Navi Mumbai, offers cutting-edge robotic knee replacement surgeries in Kharghar, Navi Mumbai. With over a decade of experience, Dr. Bharat Kumar utilizes advanced robotic technology to provide highly precise, customized, and effective knee replacements.
+                  </p>
               </div>
               <div class="knee-replacement-1 pt-3">
                   <i class="fa-solid fa-circle-chevron-right"></i>

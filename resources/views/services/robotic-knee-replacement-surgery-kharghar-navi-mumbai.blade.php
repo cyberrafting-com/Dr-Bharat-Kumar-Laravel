@@ -107,7 +107,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="doc-img">
-                    <img src="{{ asset('/resources/assets/images/robotics/dr-bharat-kumar-about.jpeg')}}" alt="">
+                    <img src="{{ asset('/resources/assets/images/robotics/dr-bharat-kumar-about.jpeg')}}" alt="Dr. Bharat Kumar best robotic knee replacement surgeon in Navi Mumbai">
                 </div>
 
             </div>
@@ -116,11 +116,10 @@
                     <div class="doc-name">
                         <h2>About Dr. Bharat Kumar</h2>
                     </div>
-                    <p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
-				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
-				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
-                    <p>Dr. Bharat Kumar is a renowned orthopaedic surgeon practising in Kharghar, Navi Mumbai. With over 10 years of experience, he has earned a reputation for excellence in joint replacement surgeries in Kharghar. <br><br> His commitment to adopting the latest technologies, such as robotic knee replacement, highlights his dedication to providing the best care for his patients.
-                    </p>
+				    <p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
+				    <p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon in Kharghar, Navi Mumbai</p>
+				    <p class="f600 blue mb-4">Best Robotic Knee Replacement Surgeon in Navi Mumbai</p>
+				    <p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR Hospital, Kharghar, heading the orthopaedic department and working as a full-time consultant at MGM Hospital, Vashi. Dr. Bharat Kumar, considered the best robotic knee replacement surgeon in Navi Mumbai, is now performing robotic knee replacement surgeries at MITR Hospital, Kharghar, Navi Mumbai.</p>
                     <div class="book-online-btn mt-4">
                         <a href="{{route('contact')}}">Book a Consultation Today!</a>
                     </div>

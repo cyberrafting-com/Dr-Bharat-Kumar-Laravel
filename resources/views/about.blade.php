@@ -22,28 +22,22 @@
 <section class="abt-sec pt-60">
 	<div class="container">
 		<div class="row align-items-center">
-
 			<div class="col-md-5">
-
 				<div class="doc-img">
-
-					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}" class="img-fluid">
-
+					<img src="{{ asset('/resources/assets/images/DrBharatKumar-about.jpeg')}}" class="img-fluid" alt="Dr. Bharat Kumar best robotic knee replacement surgeon in Navi Mumbai">
 				</div>
-
 			</div>
 			<div class="col-md-7">
 				<h2 class="blue">Meet, Dr. Bharat Kumar!</h2>
 				<p class="f600 blue mb-1">MBBS, D.Ortho, DNB, Fellowship in Arthroplasty</p>
-				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon</p>
-				<p class="f600 blue mb-4">Robotic Knee Replacement Surgeon</p>
-				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR Hospital, Kharghar, heading the orthopaedic department and working as a full-time consultant at MGM Hospital, Vashi.</p>
+				<p class="f600 blue mb-1">Consultant Orthopedic & Joint Replacement Surgeon in Kharghar, Navi Mumbai</p>
+				<p class="f600 blue mb-4">Best Robotic Knee Replacement Surgeon in Navi Mumbai</p>
+				<p class="mb-4 font-set">Dr. Bharat Kumar is an orthopaedic and joint replacement surgeon, practicing in Navi Mumbai with an experience of 10 years. He is one of the directors at MITR Hospital, Kharghar, heading the orthopaedic department and working as a full-time consultant at MGM Hospital, Vashi. Dr. Bharat Kumar, considered the best robotic knee replacement surgeon in Navi Mumbai, is now performing robotic knee replacement surgeries at MITR Hospital, Kharghar, Navi Mumbai.</p>
+				<div class="book-online-btn">
+            		<a href="https://payu.in/web/7C18937AD79349CBD7AC6880CF03B066" target="_blank">Book Appointment</a>
+        		</div>
 			</div>
 		</div>
-	</div>
-
-
-
 	</div>
 </section>
 
