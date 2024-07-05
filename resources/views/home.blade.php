@@ -198,6 +198,65 @@
               </div>
           </div>
         </div>
+        <div class="row mt-30 mb-5">          
+          <div class="col-md-6">
+              <div class="intro--area-img">
+                  <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="" class="img-fluid">
+              </div>
+          </div>
+          <div class="col-md-6">
+              <div class="intro--area">
+                  <h3>Why Choose Robotic Knee Replacement?
+                  </h3>
+              </div>
+              <div class="knee-replacement-1 pt-3">
+                  <i class="fa-solid fa-circle-chevron-right"></i>
+                  <div>
+                      <p>Minimal pain, blood loss, and bone loss
+                      </p>
+                  </div>
+              </div>
+              <div class="knee-replacement-1 pt-3">
+                  <i class="fa-solid fa-circle-chevron-right"></i>
+                  <div>
+                      <p>Improved joint alignment and component accuracy
+                      </p>
+                  </div>
+              </div>
+              <div class="knee-replacement-1 pt-3">
+                  <i class="fa-solid fa-circle-chevron-right"></i>
+                  <div>
+                      <p>Extended joint lifespan
+                      </p>
+                  </div>
+              </div>
+              <div class="knee-replacement-1 pt-3">
+                  <i class="fa-solid fa-circle-chevron-right"></i>
+                  <div>
+                      <p>Ability to walk within hours of surgery
+                      </p>
+                  </div>
+              </div>
+              <div class="knee-replacement-1 pt-3">
+                  <i class="fa-solid fa-circle-chevron-right"></i>
+                  <div>
+                      <p>Faster recovery time
+                      </p>
+                  </div>
+              </div>
+              <div class="knee-replacement-1 pt-3">
+                  <i class="fa-solid fa-circle-chevron-right"></i>
+                  <div>
+                      <p>Eliminates human error with 100% accurate alignment and precision
+                      </p>
+                  </div>
+              </div>
+              <p class="pt-4">Transform your mobility with the best robotic knee replacement surgeon in Navi Mumbai.</p>
+          </div>
+          <!-- <div class="col-lg-12 col-md-12 col-12 text-center pt-4">
+            <p>Transform your mobility with the best robotic knee replacement surgeon in Navi Mumbai.</p>
+          </div> -->
+        </div>
     </div>
 </section>
 
