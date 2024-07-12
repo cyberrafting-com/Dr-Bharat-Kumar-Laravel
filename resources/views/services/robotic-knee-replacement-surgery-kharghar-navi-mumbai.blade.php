@@ -1,5 +1,5 @@
-@php($title = "Robotic Knee Replacement in Navi Mumbai  by Dr. Bharat Kumar")  
-@section('meta_desc')Experience advanced robotic knee replacement in Navi Mumbai with Dr. Bharat Kumar. Enjoy precision surgery and faster recovery. Book now! @endsection
+@php($title = "Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar")  
+@section('meta_desc')Experience advanced robotic knee replacement surgery in Navi Mumbai with Dr. Bharat Kumar. Enjoy precision surgery and faster recovery. Book now! @endsection
 @extends('layouts.default')    
 @section('content')
 
@@ -8,7 +8,7 @@
         <div class="d-table-cell">
             <div class="container">
                 <div class="page-title-content">
-                    <h2>Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
+                    <h2>Robotic Knee Replacement Surgery in Navi Mumbai</h2>
                     <ul>
                         <li><a href="{{route('home')}}">Home</a></li>
                         <li>Robotic Knee Replacement</li>
@@ -22,8 +22,8 @@
 <section class="robotic-area">
     <div class="container">
         <div class="knee-banner text-center">
-            <img class="desk--view" src="{{ asset('/resources/assets/images/robotics/robotic-knee-banner-for-page.jpg')}}" alt="">
-            <!-- <img src="images/robotics/robotic-knee-replacement-surgery.jpg" alt="">  -->
+            <img class="desk--view" src="{{ asset('/resources/assets/images/robotics/robotic-knee-banner-for-page.jpg')}}" alt="Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar">
+            <h1>Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar</h1>
         </div>
     </div>
 
@@ -36,7 +36,7 @@
             </div>
             <div class="col-md-7 order-1 order-md-2">
                 <div class="intro-area-img">
-                    <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-surgery.jpg')}}" alt="">
+                    <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-surgery.jpg')}}" alt="Introduction to Robotic Knee Replacement Surgery">
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@
         <div class="row mt-30 mb-5">
             <div class="col-md-6">
                 <div class="intro--area-img">
-                    <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="">
+                    <img src="{{ asset('/resources/assets/images/robotics/robotic-knee-replacement-machine.jpg')}}" alt="Introducing Advanced Robotic Knee Replacement Surgery in Navi Mumbai">
                 </div>
             </div>
             <div class="col-md-6">
@@ -102,12 +102,14 @@
     </div>
 </section>
 
+
+
 <section class="doc-info">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
                 <div class="doc-img">
-                    <img src="{{ asset('/resources/assets/images/robotics/dr-bharat-kumar-about.jpeg')}}" alt="Dr. Bharat Kumar best robotic knee replacement surgeon in Navi Mumbai">
+                    <img src="{{ asset('/resources/assets/images/robotics/dr-bharat-kumar-about.jpeg')}}" alt="Dr. Bharat Kumar Best Robotic Knee Replacement Surgeon in Navi Mumbai">
                 </div>
 
             </div>
@@ -127,6 +129,7 @@
             </div>
         </div>
     </div>
+    
 </section>
 
 <section class="system-work">
@@ -134,13 +137,13 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="system-work-content">
-                    <h2>What is Robotic Knee Replacement ?</h2>
+                    <h2>What is Robotic Knee Replacement?</h2>
                     <p>Robotic knee replacement is a state-of-the-art surgical procedure where a robotic system assists the surgeon in replacing the damaged parts of the knee with artificial components. </p>
                     <p>This advanced technology ensures greater accuracy in aligning and positioning the knee implant, which is crucial for the success and longevity of the surgery.</p>
                 </div>
             </div>
             <div class="col-md-6">
-                <img src="{{ asset('/resources/assets/images/robotic-knee-replacement-banner-img1.jpg')}}" alt="">
+                <img src="{{ asset('/resources/assets/images/robotic-knee-replacement-banner-img1.jpg')}}" alt="What is Robotic Knee Replacement?">
             </div>
         </div>
     </div>
@@ -198,14 +201,14 @@
 <section class="benefits-section">
     <div class="container">
         <div class="benefits-heading text-center">
-            <h2>Benefits of Robotic Knee Replacement in Navi Mumbai</h2>
+            <h2>Benefits of Robotic Knee Replacement Surgery in Navi Mumbai</h2>
         </div>
         <div class="row">
 
             <div class="col-md-6">
                 <ol>
                     <li style="--accent-color: #dab968">
-                        <div class="icon"> <img src="{{ asset('/resources/assets/images/robotics/unmatched-precision.png')}}" alt=""> </div>
+                        <div class="icon"> <img src="{{ asset('/resources/assets/images/robotics/unmatched-precision.png')}}" alt="Unmatched Precision - Benefits of Robotic Knee Replacement Surgery in Navi Mumbai"> </div>
                         <div class="title">Unmatched Precision</div>
                         <div class="descr">The robotic system's accuracy in placing the knee implant reduces the risk of misalignment, which can lead to complications and a shorter lifespan of the implant.</div>
                     </li>
@@ -214,7 +217,7 @@
             <div class="col-md-6">
                 <ol>
                     <li style="--accent-color: #dab968">
-                        <div class="icon"><img src="{{ asset('/resources/assets/images/robotics/faster-recovery.png')}}" alt=""> </div>
+                        <div class="icon"><img src="{{ asset('/resources/assets/images/robotics/faster-recovery.png')}}" alt="Faster Recovery - Benefits of Robotic Knee Replacement Surgery in Navi Mumbai"> </div>
                         <div class="title">Faster Recovery</div>
                         <div class="descr">With smaller incisions and less damage to surrounding tissues, patients often experience a quicker and smoother recovery compared to traditional surgery.</div>
                     </li>
@@ -223,7 +226,7 @@
             <div class="col-md-6">
                 <ol>
                     <li style="--accent-color: #dab968">
-                        <div class="icon"><img src="{{ asset('/resources/assets/images/robotics/reduced-pain.png')}}" alt=""></div>
+                        <div class="icon"><img src="{{ asset('/resources/assets/images/robotics/reduced-pain.png')}}" alt="Reduced Pain - Benefits of Robotic Knee Replacement Surgery in Navi Mumbai"></div>
                         <div class="title">Reduced Pain </div>
                         <div class="descr">Precision means less trauma to the knee, resulting in lower pain levels post-surgery and a decreased need for pain medication.</div>
                     </li>
@@ -232,7 +235,7 @@
             <div class="col-md-6">
                 <ol>
                     <li style="--accent-color: #dab968">
-                        <div class="icon"><img src="{{ asset('/resources/assets/images/robotics/improved-functionality.png')}}" alt=""></div>
+                        <div class="icon"><img src="{{ asset('/resources/assets/images/robotics/improved-functionality.png')}}" alt="Improved Functionality - Benefits of Robotic Knee Replacement Surgery in Navi Mumbai"></div>
                         <div class="title">Improved Functionality</div>
                         <div class="descr">Patients typically enjoy better knee function and a more natural feeling after recovery, allowing them to return to their normal activities sooner.</div>
                     </li>
@@ -244,7 +247,7 @@
 
 <section class="wide-bg">
     <div class="wide-txt">
-        <h2>Experience the Freedom of Pain-Free Movement with Robotic Knee Replacement in Navi Mumbai.</h2>
+        <h2>Experience the Freedom of Pain-Free Movement with Robotic Knee Replacement Surgery in Navi Mumbai.</h2>
         <p>With Dr. Bharat Kumar - Your Trusted Partner in Advanced Orthopaedic Care.</p>
         <div class="wide-btn">
             <a href="{{route('contact')}}">Book a Consultation Today!</a>
@@ -321,7 +324,7 @@
         <div class="row">
         <div class="col-md-6  order-2 order-md-1">
             <div class="knee-replacement">
-                <h2>Who Needs a Knee Replacement ?</h2>
+                <h2>Who Needs a Knee Replacement?</h2>
                 <p class="pt-4 pb-4">Knee replacement surgery is often suggested for people who have serious knee pain and problems moving because of conditions like:</p>
                 <div class="knee-replacement-1 pt-3">
                     <i class="fa-solid fa-circle-chevron-right"></i>
@@ -351,7 +354,7 @@
         </div>
         <div class="col-md-6 order-1 order-md-2">
             <div class="knee-replacement-img">
-                <img src="{{ asset('/resources/assets/images/robotics/who-need-knee-replacement.png')}}" alt="">
+                <img src="{{ asset('/resources/assets/images/robotics/who-need-knee-replacement.png')}}" alt="Who Needs a Knee Replacement Surgery in Navi Mumbai?">
             </div>
         </div>
            </div>
@@ -440,7 +443,7 @@
 <section class="why-choose">
     <div class="container">
         <div class="why--name text-center">
-            <h2>Why Choose Dr. Bharat Kumar for Robotic Knee Replacement in Navi Mumbai ?</h2>
+            <h2>Why Choose Dr. Bharat Kumar for Robotic Knee Replacement Surgery in Navi Mumbai ?</h2>
         </div>
         <div class="why-area">
             <div class="row">
@@ -484,9 +487,9 @@
         <div class="row">
             <div class="col-md-7 order-2 order-md-1">
                 <div class="success-set">
-                    <h2>Patient Success Stories for Robotic Knee Replacement in Navi Mumbai by Dr. Bharat Kumar</h2>
+                    <h2>Patient Success Stories for Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar</h2>
 
-                    <p>Hearing from those who have undergone robotic knee replacement in Navi Mumbai with Dr. Bharat Kumar can provide invaluable insight. Many of Dr. Bharat's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Bharat's skill and dedication.</p>
+                    <p>Hearing from those who have undergone Robotic Knee Replacement Surgery in Navi Mumbai with Dr. Bharat Kumar can provide invaluable insight. Many of Dr. Bharat's patients have shared their success stories, highlighting significant improvements in their quality of life post-surgery. These testimonials serve as a testament to Dr. Bharat's skill and dedication.</p>
 
                     <div class="vide-btn mt-4">
                         <a href="{{route('video-testimonials')}}">View More</a>
@@ -532,7 +535,7 @@
             <div class="col-md-6">
                 <div class="concern-set">
                     <h2>Addressing Common Concerns</h2>
-                    <img src="{{ asset('/resources/assets/images/robotics/common-concern-img.png')}}" alt="">
+                    <img src="{{ asset('/resources/assets/images/robotics/common-concern-img.png')}}" alt="Addressing Common Concerns for Robotic Knee Replacement Surgery in Navi Mumbai">
                 </div>
             </div>
             <div class="col-md-6">
@@ -557,7 +560,7 @@
 </section>
 
 <!-- <section class="showcase">
-    <img src="{{ asset('/resources/assets/images/robotics/background-knee-replacement-surgery.png')}}" alt="Picture">
+    <img src="{{ asset('/resources/assets/images/robotics/background-knee-replacement-surgery.png')}}" alt="Life After Knee Replacement Surgery in Navi Mumbai">
     <div class="overlay-set">
         <h2>Life After Knee Replacement</h2>
         <ul class="showcase-content-area">
@@ -566,7 +569,7 @@
             <i class="fa-solid fa-circle-chevron-right"></i>
             <li>Most patients experience significant pain relief, improved mobility, and a greater ability to perform daily activities.</li>
             <i class="fa-solid fa-circle-chevron-right"></i>
-            <li>Regular follow-ups after Robotic knee replacement in Navi Mumbai with <span class="doc---name">Dr. Bharat Kumar</span> ensure <br>
+            <li>Regular follow-ups after Robotic Knee Replacement Surgery in Navi Mumbai with <span class="doc---name">Dr. Bharat Kumar</span> ensure <br>
                 that any issues are promptly addressed, keeping you on the path to a healthy, active life.</li>
         </ul>
     </div>
@@ -585,7 +588,7 @@
                         <i class="fa-solid fa-circle-chevron-right"></i>
                         <li>Most patients experience significant pain relief, improved mobility, and a greater ability to perform daily activities.</li>
                         <i class="fa-solid fa-circle-chevron-right"></i>
-                        <li>Regular follow-ups after Robotic knee replacement in Navi Mumbai with <a href="{{route('about')}}" class="interlink">Dr. Bharat Kumar</a> ensure that any issues are promptly addressed, keeping you on the path to a healthy, active life.</li>
+                        <li>Regular follow-ups after Robotic Knee Replacement Surgery in Navi Mumbai with <a href="{{route('about')}}" class="interlink">Dr. Bharat Kumar</a> ensure that any issues are promptly addressed, keeping you on the path to a healthy, active life.</li>
                     </ul>  
                 </div>
             </div>
@@ -647,7 +650,7 @@
             <div class="row">
                 <div class="conclusion-content">
                     <h2>Conclusion</h2>
-                    <p>Robotic knee replacement in Navi Mumbai by Dr. Bharat Kumar offers a promising solution for those suffering from debilitating knee pain. With advanced technology and a skilled surgeon, you can look forward to a quicker recovery and a better quality of life. If you're considering knee replacement surgery, exploring robotic options with Dr. Bharat Kumar could be the key to your journey toward pain-free living.</p>
+                    <p>Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar offers a promising solution for those suffering from debilitating knee pain. With advanced technology and a skilled surgeon, you can look forward to a quicker recovery and a better quality of life. If you're considering knee replacement surgery, exploring robotic options with Dr. Bharat Kumar could be the key to your journey toward pain-free living.</p>
                 </div>
             </div>
         </div>
