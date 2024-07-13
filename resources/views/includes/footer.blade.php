@@ -52,14 +52,37 @@
     </div> -->
 
     <div class="footer-stick d-lg-none d-xl-none d-md-none d-sm-none">
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-12 call-btn">
           <a href="tel:+916262840940" class="text-white">
             <img src="{{ asset('/resources/assets/images/phone-icon.png')}}" alt="">
             &nbsp;&nbsp;<span>Call Now</span></a>
         </div>
-      </div>
+      </div> -->
+
+        <!-- mobile/whtsapp button start-->
+ <div class="navbar-fixed-bottom d-lg-none d-xl-none d-md-none d-sm-none row "
+     style="text-align: center;position: fixed;right: 0;bottom: 0;left: 0;padding: 4px;background-color:lightgray;text-align: center;z-index:29">
+
+     <div class="d-lg-none d-xl-none d-md-none d-sm-none col-12" style=" background-color: #018f99;padding:8px;  ">
+         <a href="tel:+916262840940" style="color:white; font-size: 18px; text-decoration: none;">
+             <img src="{{ asset('/resources/assets/images/phone-icon.png')}}"
+                 style="width: 32px; text-decoration: none;" alt="Call"> Call Us</a>
+     </div>
+     
+ </div>
+ <!-- mobile/whtsapp button end-->
     </div>
+
+  
+
+
+
+
+
+
+
+
 
   <script src="{{ asset('/resources/assets/js/jquery-3.3.1.slim.min.js')}}"></script>
   <script src="{{ asset('/resources/assets/js/bootstrap.min.js')}}"></script>
