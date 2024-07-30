@@ -11,7 +11,7 @@
                     <h2>About</h2>
                     <ul>
                         <li><a href="{{route('home')}}">Home</a></li>
-                        <li>About1</li>
+                        <li>About</li>
                     </ul>
                 </div>
             </div>
