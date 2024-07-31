@@ -21,8 +21,8 @@
 <div class="footer-info-contact">
 <i class="fa fa-phone" aria-hidden="true"></i>
 <h3>Phone</h3>
-<span><a href="tel:+91 6262 840 940">+91 6262 840 940</a></span><br>
-<span><a href="tel:+91 6262 690 790">+91 6262 690 790</a></span>
+<span><a href="tel:+916262840940">+91-6262840940</a></span><br>
+<span><a href="tel:+916262690790">+91-6262690790</a></span>
 </div>
 <p class="footer-title"><b>Stay Connected</b></p>
 <a href="https://www.facebook.com/BharatKumarOrthopaedic" target="_blank"><img src="https://drbharatkumar.com/resources/assets/images/facebook-icon.svg" class="footer-icon"></a>
