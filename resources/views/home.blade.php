@@ -142,7 +142,7 @@
                   <h3>Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar</h3>
                   <h4 class="h4-head">Advanced Precision and Care
                   </h4>
-                  <p>Dr. Bharat Kumar, a leading orthopaedic and joint replacement surgeon in Navi Mumbai, offers cutting-edge robotic knee replacement surgeries in Kharghar, Navi Mumbai. With over a decade of experience, Dr. Bharat Kumar utilizes advanced robotic technology to provide highly precise, customized, and effective knee replacements.
+                  <p>Dr. Bharat Kumar,  a leading orthopaedic and joint replacement surgeon in Navi Mumbai, offers cutting-edge robotic knee replacement surgeries in Kharghar, Navi Mumbai. With over a decade of experience, Dr. Bharat Kumar utilizes advanced robotic technology to provide highly precise, customized, and effective knee replacements.
                   </p>
               </div>
           </div>
