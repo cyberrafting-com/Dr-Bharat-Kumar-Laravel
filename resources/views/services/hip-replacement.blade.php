@@ -208,7 +208,7 @@
         </div>
 
         <hr>
-        
+
         <div class="row mt-30 mb-5">
             
             <div class="col-md-12">
@@ -244,6 +244,24 @@
     </div>
 
 
+</section>
+
+
+<section class="system-work">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="system-work-content">
+                    <h2>Surgical Procedure</h2>
+                    <p>Hip replacement surgery involves the removal of the damaged hip joint parts and their replacement with artificial components made from metal, ceramic, and plastic. The procedure can be performed through traditional or minimally invasive approaches. </p>
+                   
+                </div>
+            </div>
+            <div class="col-md-6 doc-img">
+                <img src="{{ asset('/resources/assets/images/services-img/surgical-procedure-by-dr-bharat-kumar-img.jpg')}}" alt="What is Robotic Knee Replacement?">
+            </div>
+        </div>
+    </div>
 </section>
 
 
