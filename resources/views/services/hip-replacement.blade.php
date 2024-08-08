@@ -200,9 +200,39 @@
                 <div class="knee-replacement-1 pt-3">
                     <i class="fa-solid fa-circle-chevron-right"></i>
                     <div>
-                        <p><span class="bold-set">Hip Fractures: </span>Severe fractures that cannot be repaired effectively.</p>
+                        <p><span class="bold-set">Hip Fractures:</span>Severe fractures that cannot be repaired effectively.</p>
                     </div>
                 </div>
+              
+            </div>
+        </div>
+
+        <div class="row mt-30 mb-5">
+            
+            <div class="col-md-12">
+                <div class="intro--area">
+                    <!-- <h3>Understanding Hip Replacement Surgery</h3> -->
+                    <p>Types of Hip Replacement</p>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Total Hip Replacement (THR):</span>Replacement of both the acetabulum (hip socket) and the femoral head (thigh bone head).</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Partial Hip Replacement:</span>Replacement of only the femoral head.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Robotic Hip Replacement:</span>Use of robotic assistance for precision and improved outcomes.</p>
+                    </div>
+                </div>
+              
               
             </div>
         </div>
