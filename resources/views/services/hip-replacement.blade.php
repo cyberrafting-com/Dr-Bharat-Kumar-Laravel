@@ -175,7 +175,7 @@
         <div class="row mt-30 mb-5">
             
             <div class="col-md-12">
-                <div class="intro--area">
+                <div class="intro--area replacement-bg">
                     <h3>Understanding Hip Replacement Surgery</h3>
                     <p>Indications for Hip Replacement</p>
                 </div>

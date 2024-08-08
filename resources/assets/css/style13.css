@@ -2835,6 +2835,10 @@ span.doc---name {
     padding-bottom: 17px;
 }
 
+.replacement-bg {
+    background-color: #f4f1e863;
+}
+
 @media (max-width: 767.98px) {
     .footer-stick img {
         width: 46px;
