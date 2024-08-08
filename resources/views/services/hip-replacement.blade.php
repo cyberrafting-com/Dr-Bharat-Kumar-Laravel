@@ -258,7 +258,7 @@
                 </div>
             </div>
             <div class="col-md-6 doc-img">
-                <img src="{{ asset('/resources/assets/images/services-img/surgical-procedure-by-dr-bharat-kumar-img.jpg')}}" alt="What is Robotic Knee Replacement?">
+                <img src="{{ asset('/resources/assets/images/services-img/surgical-procedure-by-dr-bharat-kumar-img.jpg')}}" alt="Surgical Procedure">
             </div>
         </div>
     </div>
