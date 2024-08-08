@@ -156,7 +156,7 @@
     <div class="container">
         <div class="row mt-30">
             <div class="col-md-5 order-2 order-md-1  ">
-                <div class="intro-area">
+                <div class="intro-area-set">
                     <h2>Introduction to Hip Replacement Surgery</h2>
                     <p>Hip replacement surgery, or hip arthroplasty, is a procedure to replace the hip joint with a prosthetic implant. It is often performed to relieve pain and improve function in patients suffering from severe hip arthritis or other debilitating hip conditions.</p>
                 </div>
