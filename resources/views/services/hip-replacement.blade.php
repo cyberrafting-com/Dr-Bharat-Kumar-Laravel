@@ -29,7 +29,7 @@
 
 		<div class="row justify-content-center mb-4">
 			<div class="col-md-11">
-				<p class="pb-3">Total hip replacement <b>is</b>  most commonly used to treat joint failure caused by osteoarthritis. Other indications include rheumatoid arthritis, certain hip fractures, and benign and malignant bone tumors. The aim of the procedure is pain relief and improvement in hip function. Hip replacement is usually considered only after other therapies, such as physical therapy and pain medications, have failed.</p>
+				<p class="pb-3">Total hip replacement   most commonly used to treat joint failure caused by osteoarthritis. Other indications include rheumatoid arthritis, certain hip fractures, and benign and malignant bone tumors. The aim of the procedure is pain relief and improvement in hip function. Hip replacement is usually considered only after other therapies, such as physical therapy and pain medications, have failed.</p>
 				<p>In a total hip replacement (also called total hip arthroplasty), the damaged bone and cartilage of hip joint is removed and replaced with prosthetic components. Hip replacement surgery is one of the most successful operations in all of medicine.</p>
 			</div>
 		</div>
