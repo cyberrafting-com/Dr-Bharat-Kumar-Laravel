@@ -169,6 +169,43 @@
         </div>
         <br>
 
+        <!--  -->
+
+            
+        <div class="row mt-30 mb-5">
+            
+            <div class="col-md-12">
+                <div class="intro--area">
+                    <h3>Understanding Hip Replacement Surgery</h3>
+                    <p>Indications for Hip Replacement</p>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Osteoarthritis:</span>Degeneration of hip joint cartilage and bone.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Rheumatoid Arthritis:</span>Chronic inflammatory condition affecting the hip joint.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Avascular Necrosis:</span>Loss of blood supply to the hip bone leading to bone death.</p>
+                    </div>
+                </div>
+                <div class="knee-replacement-1 pt-3">
+                    <i class="fa-solid fa-circle-chevron-right"></i>
+                    <div>
+                        <p><span class="bold-set">Hip Fractures: </span>Severe fractures that cannot be repaired effectively.</p>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
 
         
        
@@ -179,3 +216,4 @@
 
 
 @stop
+
