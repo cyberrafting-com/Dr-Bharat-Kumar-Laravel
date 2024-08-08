@@ -263,5 +263,44 @@
 </section>
 
 
+<!-- benefits -->
+<!-- <section class="benefits-section">
+    <div class="container">
+        <div class="benefits-heading text-center">
+            <h2>Benefits of Robotic Knee Replacement Surgery in Navi Mumbai</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <ol>
+                    <li style="--accent-color: #dab968">
+                        <div class="icon"> <img src="" alt="Unmatched Precision - Benefits of Hip Replacement Surgery in Navi Mumbai"> </div>
+                        <div class="title">Precision:</div>
+                        <div class="descr">Enhanced accuracy in implant positioning and alignment.</div>
+                    </li>
+                </ol>
+            </div>
+            <div class="col-md-4">
+                <ol>
+                    <li style="--accent-color: #dab968">
+                        <div class="icon"> <img src="" alt="Unmatched Precision - Benefits of Hip Replacement Surgery in Navi Mumbai"> </div>
+                        <div class="title">Minimally Invasive</div>
+                        <div class="descr">Smaller incisions leading to less tissue damage.</div>
+                    </li>
+                </ol>
+            </div>
+            <div class="col-md-4">
+                <ol>
+                    <li style="--accent-color: #dab968">
+                        <div class="icon"> <img src="" alt="Unmatched Precision - Benefits of Hip Replacement Surgery in Navi Mumbai"> </div>
+                        <div class="title">Faster Recovery:</div>
+                        <div class="descr">Reduced pain and quicker rehabilitation period.</div>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section> -->
+<!-- benefits end -->
+
 @stop
 
