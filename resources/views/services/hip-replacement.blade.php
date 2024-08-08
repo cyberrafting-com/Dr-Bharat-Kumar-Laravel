@@ -19,7 +19,7 @@
     </div>
 </div>
 
-<div class="srvc-meta">
+<!-- <div class="srvc-meta">
 	<div class="container">
         <div class="row justify-content-center mb-4">
             <div class="col-md-11">  
@@ -141,6 +141,41 @@
         </div>
     </div>
 	</div>
-</div>
+</div> -->
+
+<section class="robotic-area">
+    <div class="container">
+        <div class="knee-banner text-center">
+            <img class="desk--view" src="{{ asset('/resources/assets/images/hip-replacement-service-img.jpg')}}" alt="Robotic Knee Replacement Surgery in Navi Mumbai by Dr. Bharat Kumar">
+            <h2 class="mt-2 title-head" style="padding-top:20px;">Hip Replacement Surgery in Kharghar, Navi Mumbai</h1>
+        </div>
+    </div>
+   
+
+    <!--  -->
+    <div class="container">
+        <div class="row mt-30">
+            <div class="col-md-5 order-2 order-md-1  d-flex">
+                <div class="intro-area">
+                    <h2>Introduction to Hip Replacement Surgery</h2>
+                    <p>Hip replacement surgery, or hip arthroplasty, is a procedure to replace the hip joint with a prosthetic implant. It is often performed to relieve pain and improve function in patients suffering from severe hip arthritis or other debilitating hip conditions.</p>
+                </div>
+            </div>
+            <div class="col-md-7 order-1 order-md-2">
+                <div class="intro-area-img">
+                    <img src="{{ asset('/resources/assets/images/services-img/hip-replacement-by-dr-bharat-kumar-img.jpg')}}" alt="Introduction to Hip Replacement Surgery">
+                </div>
+            </div>
+        </div>
+        <br>
+
+
+        
+       
+    </div>
+
+
+</section>
+
 
 @stop
